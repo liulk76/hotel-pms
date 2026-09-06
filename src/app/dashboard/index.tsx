@@ -146,7 +146,7 @@ export default function Page() {
               value={{ from: range.from, to: range.to }}
               onChange={handleRangeChange}
             />
-            <Button variant="outline" onClick={handleExport} disabled={loading}>
+            <Button onClick={handleExport} disabled={loading}>
               <DownloadIcon />
               导出报表
             </Button>

@@ -83,7 +83,7 @@ export function LoginForm({
         <Field>
           <Button variant="outline" type="button">
             <img style={{ height: 16, width: 16 }} src="https://ts4.tc.mm.bing.net/th/id/ODF.BvtHqZTl6qLypPDIASUGoA?w=32&amp;h=32&amp;qlt=91&amp;pcl=fffffa&amp;o=6&amp;pid=1.2" height="32" width="32" alt="Global web icon" data-bm="30"></img>
-            微信单点登录
+            微信扫描登录
           </Button>
           <FieldDescription className="text-center">
             还没有账号?{" "}

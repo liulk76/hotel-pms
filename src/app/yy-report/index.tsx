@@ -141,7 +141,7 @@ const YYReport = () => {
           <div className="flex items-center gap-2">
             <Button onClick={handleExport} disabled={loading}>
               <DownloadIcon />
-              导出 Excel
+              导出报表
             </Button>
             <DateRangePicker value={dateRange} onChange={handleDateRangeChange} />
           </div>
