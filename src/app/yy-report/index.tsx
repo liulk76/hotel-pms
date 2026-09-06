@@ -9,7 +9,6 @@ import {
 import type { DateRange } from "react-day-picker"
 import * as XLSX from "xlsx"
 
-import { DashboardLayout } from "@/components/dashboard-layout"
 import { DateRangePicker } from "@/components/date-range-picker"
 import { Button } from "@/components/ui/button"
 import { ScrollArea } from "@/components/ui/scroll-area"
@@ -127,7 +126,7 @@ const YYReport = () => {
   })
 
   return (
-    <DashboardLayout className="h-svh overflow-hidden">
+    <>
       <div className="relative flex flex-1 flex-col gap-4 overflow-hidden p-4 md:p-6">
         {loading && (
           <Loading />
@@ -256,7 +255,7 @@ const YYReport = () => {
           </div>
         </div>
       </div>
-    </DashboardLayout>
+    </>
   )
 }
 

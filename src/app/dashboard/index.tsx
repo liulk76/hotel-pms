@@ -3,7 +3,6 @@ import { DownloadIcon } from "lucide-react"
 import type { DateRange } from "react-day-picker"
 import * as XLSX from "xlsx"
 
-import { DashboardLayout } from "@/components/dashboard-layout"
 import { DateRangePicker } from "@/components/date-range-picker"
 import { Button } from "@/components/ui/button"
 import {
@@ -121,7 +120,7 @@ export default function Page() {
   }
 
   return (
-    <DashboardLayout className="h-svh overflow-hidden">
+    <>
       <div className="min-h-0 flex-1 overflow-y-auto">
       <div className="flex flex-col gap-4 p-4 md:gap-6 md:p-6">
         <div className="flex flex-wrap items-center justify-between gap-2">
@@ -194,6 +193,6 @@ export default function Page() {
         )}
       </div>
       </div>
-    </DashboardLayout>
+    </>
   )
 }
