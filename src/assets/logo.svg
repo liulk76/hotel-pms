@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="住客邦">
+  <defs>
+    <linearGradient id="zkbBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f5bf6"/>
+      <stop offset="100%" stop-color="#1447e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#zkbBg)"/>
+  <path d="M32 12 L50 27 H44.5 V47 A2 2 0 0 1 42.5 49 H21.5 A2 2 0 0 1 19.5 47 V27 H14 Z" fill="#ffffff"/>
+  <rect x="27" y="34" width="10" height="15" rx="1.5" fill="#1447e6"/>
+  <path d="M32 8.5 L34.1 12.9 L38.8 13.4 L35.3 16.5 L36.3 21.2 L32 18.8 L27.7 21.2 L28.7 16.5 L25.2 13.4 L29.9 12.9 Z" fill="#ffd166"/>
+</svg>
