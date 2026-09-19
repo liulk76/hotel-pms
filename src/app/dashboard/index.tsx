@@ -33,7 +33,7 @@ import { RevenueTrendChart } from "./revenue-trend-chart"
 import { StatCards } from "./stat-cards"
 import Loading from "@/components/loading"
 
-const TODAY = new Date(2026, 8, 6)
+const TODAY = new Date(2026, 8, 19)
 
 export default function Page() {
   const { daily, orders, loading, error } = useBusinessData()
@@ -115,7 +115,7 @@ export default function Page() {
     XLSX.utils.book_append_sheet(workbook, orderSheet, "营业明细")
     XLSX.writeFile(
       workbook,
-      `酒店营业报表_${toDateKey(range.from)}_${toDateKey(range.to)}.xlsx`
+      `酒店营业概览_${toDateKey(range.from)}_${toDateKey(range.to)}.xlsx`
     )
   }
 
@@ -124,7 +124,7 @@ export default function Page() {
       <div className="min-h-0 flex-1 overflow-y-auto">
       <div className="flex flex-col gap-4 p-4 md:gap-6 md:p-6">
         <div className="flex flex-wrap items-center justify-between gap-2">
-          <h1 className="text-lg font-semibold">酒店营业报表</h1>
+          <h1 className="text-lg font-semibold">酒店营业概览</h1>
           <div className="flex items-center gap-2">
             <Select
               items={DATE_PRESET_LABELS}

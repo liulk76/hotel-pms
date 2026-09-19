@@ -1,4 +1,5 @@
 import { cn } from "cn"
+import { addMonths } from "date-fns"
 import { zhCN } from "date-fns/locale"
 import { CalendarIcon, XIcon } from "lucide-react"
 import type { DateRange } from "react-day-picker"
@@ -51,15 +52,28 @@ export function DateRangePicker({
           )}
         </PopoverTrigger>
         <PopoverContent className="w-auto p-0" align="start">
-          <Calendar
-            mode="range"
-            locale={zhCN}
-            defaultMonth={value?.from}
-            selected={value}
-            onSelect={onChange}
-            numberOfMonths={2}
-            showOutsideDays={false}
-          />
+          <div className="flex divide-x">
+            <Calendar
+              mode="range"
+              locale={zhCN}
+              defaultMonth={value?.from}
+              selected={value}
+              onSelect={onChange}
+              numberOfMonths={1}
+              showOutsideDays={false}
+              disabled={value?.to ? { after: value.to } : undefined}
+            />
+            <Calendar
+              mode="range"
+              locale={zhCN}
+              defaultMonth={value?.to ?? addMonths(value?.from ?? new Date(), 1)}
+              selected={value}
+              onSelect={onChange}
+              numberOfMonths={1}
+              showOutsideDays={false}
+              disabled={value?.from ? { before: value.from } : undefined}
+            />
+          </div>
         </PopoverContent>
       </Popover>
       {value?.from && (

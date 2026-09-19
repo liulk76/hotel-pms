@@ -4,6 +4,7 @@ import { Link, useLocation } from "wouter"
 import {
   SidebarGroup,
   SidebarGroupContent,
+  SidebarGroupLabel,
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
@@ -12,17 +13,20 @@ import {
 
 export function NavMain({
   items,
+  label,
 }: {
   items: {
     title: string
-    url: string
+    url?: string
     icon?: React.ReactNode
   }[]
+  label?: string
 }) {
   const [location] = useLocation()
 
   return (
     <SidebarGroup>
+      {label && <SidebarGroupLabel>{label}</SidebarGroupLabel>}
       <SidebarGroupContent className="flex flex-col gap-2">
         {/* <SidebarMenu>
           <SidebarMenuItem className="flex items-center gap-2">
@@ -46,12 +50,12 @@ export function NavMain({
           </SidebarMenuItem>
         </SidebarMenu> */}
         <SidebarMenu>
-          {items.map((item) => (
-            <SidebarMenuItem key={item.title}>
+          {items.map((item, index) => (
+            <SidebarMenuItem key={`${item.title}-${index}`}>
               <SidebarMenuButton
                 tooltip={item.title}
-                isActive={location === item.url}
-                render={<Link href={item.url} />}
+                isActive={!!item.url && location === item.url}
+                render={item.url ? <Link href={item.url} /> : undefined}
               >
                 {item.icon}
                 <span>{item.title}</span>

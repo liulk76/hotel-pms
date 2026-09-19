@@ -27,7 +27,7 @@ import { useRevenueData } from "./data"
 import type { RevenueRow } from "./data"
 import Loading from "@/components/loading"
 
-const TODAY = new Date(2026, 8, 6)
+const TODAY = new Date(2026, 8, 19)
 
 const amountLabels: Record<(typeof amountKeys)[number], string> = {
   roomFee: "房费",
@@ -49,8 +49,7 @@ function toDateKey(date: Date) {
 function getDefaultDateRange(): DateRange {
   const to = new Date(TODAY)
   to.setHours(0, 0, 0, 0)
-  const from = new Date(to)
-  from.setDate(from.getDate() - 29)
+  const from = new Date(to.getFullYear(), 0, 1)
   return { from, to }
 }
 
@@ -127,7 +126,7 @@ const YYReport = () => {
 
   return (
     <>
-      <div className="relative flex flex-1 flex-col gap-4 overflow-hidden p-4 md:p-6">
+      <div className="relative flex min-h-0 flex-1 flex-col gap-4 overflow-hidden p-4 md:p-6">
         {loading && (
           <Loading />
         )}
@@ -147,7 +146,7 @@ const YYReport = () => {
           </div>
         </div>
 
-        <div className="flex flex-1 flex-col overflow-hidden rounded-lg border">
+        <div className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-lg border">
           <ScrollArea className="min-h-0 flex-1">
             <table className="w-full caption-bottom text-sm">
               <TableHeader className="sticky top-0 z-10 bg-muted">
