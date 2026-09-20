@@ -1,9 +1,2123 @@
 [
   {
+    "date": "2026-01-01",
+    "roomRevenue": 2577,
+    "restaurantRevenue": 825,
+    "otherRevenue": 1536,
+    "roomsAvailable": 150,
+    "roomsSold": 135,
+    "roomTypeOccupancy": {
+      "standard": 89.1,
+      "deluxe": 61.8,
+      "twin": 93.3,
+      "suite": 93.2
+    }
+  },
+  {
+    "date": "2026-01-02",
+    "roomRevenue": 5649,
+    "restaurantRevenue": 909,
+    "otherRevenue": 564,
+    "roomsAvailable": 150,
+    "roomsSold": 118,
+    "roomTypeOccupancy": {
+      "standard": 70.9,
+      "deluxe": 67.4,
+      "twin": 79.6,
+      "suite": 60.6
+    }
+  },
+  {
+    "date": "2026-01-03",
+    "roomRevenue": 6277,
+    "restaurantRevenue": 1120,
+    "otherRevenue": 2453,
+    "roomsAvailable": 150,
+    "roomsSold": 129,
+    "roomTypeOccupancy": {
+      "standard": 87.7,
+      "deluxe": 81.3,
+      "twin": 64.7,
+      "suite": 84.8
+    }
+  },
+  {
+    "date": "2026-01-04",
+    "roomRevenue": 7503,
+    "restaurantRevenue": 622,
+    "otherRevenue": 1651,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 97.8,
+      "deluxe": 68.2,
+      "twin": 85.8,
+      "suite": 63.7
+    }
+  },
+  {
+    "date": "2026-01-05",
+    "roomRevenue": 3029,
+    "restaurantRevenue": 1269,
+    "otherRevenue": 1186,
+    "roomsAvailable": 150,
+    "roomsSold": 123,
+    "roomTypeOccupancy": {
+      "standard": 88,
+      "deluxe": 93.9,
+      "twin": 92,
+      "suite": 78.8
+    }
+  },
+  {
+    "date": "2026-01-06",
+    "roomRevenue": 4067,
+    "restaurantRevenue": 494,
+    "otherRevenue": 373,
+    "roomsAvailable": 150,
+    "roomsSold": 133,
+    "roomTypeOccupancy": {
+      "standard": 61.1,
+      "deluxe": 66,
+      "twin": 76.3,
+      "suite": 66.2
+    }
+  },
+  {
+    "date": "2026-01-07",
+    "roomRevenue": 5707,
+    "restaurantRevenue": 645,
+    "otherRevenue": 1015,
+    "roomsAvailable": 150,
+    "roomsSold": 128,
+    "roomTypeOccupancy": {
+      "standard": 84,
+      "deluxe": 93.3,
+      "twin": 62.2,
+      "suite": 86.7
+    }
+  },
+  {
+    "date": "2026-01-08",
+    "roomRevenue": 7926,
+    "restaurantRevenue": 508,
+    "otherRevenue": 1844,
+    "roomsAvailable": 150,
+    "roomsSold": 134,
+    "roomTypeOccupancy": {
+      "standard": 85.9,
+      "deluxe": 83.8,
+      "twin": 62.4,
+      "suite": 97.7
+    }
+  },
+  {
+    "date": "2026-01-09",
+    "roomRevenue": 2371,
+    "restaurantRevenue": 669,
+    "otherRevenue": 1052,
+    "roomsAvailable": 150,
+    "roomsSold": 111,
+    "roomTypeOccupancy": {
+      "standard": 79.1,
+      "deluxe": 96.7,
+      "twin": 97.9,
+      "suite": 72.5
+    }
+  },
+  {
+    "date": "2026-01-10",
+    "roomRevenue": 7600,
+    "restaurantRevenue": 1299,
+    "otherRevenue": 1132,
+    "roomsAvailable": 150,
+    "roomsSold": 112,
+    "roomTypeOccupancy": {
+      "standard": 83,
+      "deluxe": 72.4,
+      "twin": 85,
+      "suite": 87.9
+    }
+  },
+  {
+    "date": "2026-01-11",
+    "roomRevenue": 3871,
+    "restaurantRevenue": 925,
+    "otherRevenue": 1002,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 67.3,
+      "deluxe": 89.1,
+      "twin": 85,
+      "suite": 83
+    }
+  },
+  {
+    "date": "2026-01-12",
+    "roomRevenue": 5359,
+    "restaurantRevenue": 897,
+    "otherRevenue": 3719,
+    "roomsAvailable": 150,
+    "roomsSold": 132,
+    "roomTypeOccupancy": {
+      "standard": 93.9,
+      "deluxe": 82.8,
+      "twin": 79.4,
+      "suite": 84.8
+    }
+  },
+  {
+    "date": "2026-01-13",
+    "roomRevenue": 6307,
+    "restaurantRevenue": 1427,
+    "otherRevenue": 1043,
+    "roomsAvailable": 150,
+    "roomsSold": 120,
+    "roomTypeOccupancy": {
+      "standard": 76.3,
+      "deluxe": 77.8,
+      "twin": 82.5,
+      "suite": 94.4
+    }
+  },
+  {
+    "date": "2026-01-14",
+    "roomRevenue": 8326,
+    "restaurantRevenue": 1123,
+    "otherRevenue": 1741,
+    "roomsAvailable": 150,
+    "roomsSold": 118,
+    "roomTypeOccupancy": {
+      "standard": 67.3,
+      "deluxe": 83.2,
+      "twin": 94,
+      "suite": 68.1
+    }
+  },
+  {
+    "date": "2026-01-15",
+    "roomRevenue": 6105,
+    "restaurantRevenue": 1871,
+    "otherRevenue": 1630,
+    "roomsAvailable": 150,
+    "roomsSold": 128,
+    "roomTypeOccupancy": {
+      "standard": 90.2,
+      "deluxe": 85.8,
+      "twin": 75.3,
+      "suite": 61.2
+    }
+  },
+  {
+    "date": "2026-01-16",
+    "roomRevenue": 5943,
+    "restaurantRevenue": 1134,
+    "otherRevenue": 1593,
+    "roomsAvailable": 150,
+    "roomsSold": 112,
+    "roomTypeOccupancy": {
+      "standard": 63.6,
+      "deluxe": 68.1,
+      "twin": 75.2,
+      "suite": 84.6
+    }
+  },
+  {
+    "date": "2026-01-17",
+    "roomRevenue": 6326,
+    "restaurantRevenue": 1777,
+    "otherRevenue": 1012,
+    "roomsAvailable": 150,
+    "roomsSold": 114,
+    "roomTypeOccupancy": {
+      "standard": 95.4,
+      "deluxe": 95.6,
+      "twin": 87.1,
+      "suite": 78.3
+    }
+  },
+  {
+    "date": "2026-01-18",
+    "roomRevenue": 3713,
+    "restaurantRevenue": 859,
+    "otherRevenue": 3170,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 74,
+      "deluxe": 91.8,
+      "twin": 92.8,
+      "suite": 90.5
+    }
+  },
+  {
+    "date": "2026-01-19",
+    "roomRevenue": 7713,
+    "restaurantRevenue": 1247,
+    "otherRevenue": 805,
+    "roomsAvailable": 150,
+    "roomsSold": 116,
+    "roomTypeOccupancy": {
+      "standard": 69.3,
+      "deluxe": 91.1,
+      "twin": 92.5,
+      "suite": 66.8
+    }
+  },
+  {
+    "date": "2026-01-20",
+    "roomRevenue": 5497,
+    "restaurantRevenue": 1006,
+    "otherRevenue": 2786,
+    "roomsAvailable": 150,
+    "roomsSold": 135,
+    "roomTypeOccupancy": {
+      "standard": 63.8,
+      "deluxe": 64,
+      "twin": 95,
+      "suite": 71.6
+    }
+  },
+  {
+    "date": "2026-01-21",
+    "roomRevenue": 3827,
+    "restaurantRevenue": 771,
+    "otherRevenue": 1969,
+    "roomsAvailable": 150,
+    "roomsSold": 130,
+    "roomTypeOccupancy": {
+      "standard": 87.6,
+      "deluxe": 62,
+      "twin": 87.5,
+      "suite": 83.5
+    }
+  },
+  {
+    "date": "2026-01-22",
+    "roomRevenue": 6431,
+    "restaurantRevenue": 546,
+    "otherRevenue": 1611,
+    "roomsAvailable": 150,
+    "roomsSold": 132,
+    "roomTypeOccupancy": {
+      "standard": 74.9,
+      "deluxe": 96.5,
+      "twin": 66,
+      "suite": 70.7
+    }
+  },
+  {
+    "date": "2026-01-23",
+    "roomRevenue": 3948,
+    "restaurantRevenue": 1025,
+    "otherRevenue": 2845,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 67.9,
+      "deluxe": 75.5,
+      "twin": 84.9,
+      "suite": 68.1
+    }
+  },
+  {
+    "date": "2026-01-24",
+    "roomRevenue": 5474,
+    "restaurantRevenue": 984,
+    "otherRevenue": 1425,
+    "roomsAvailable": 150,
+    "roomsSold": 125,
+    "roomTypeOccupancy": {
+      "standard": 95.9,
+      "deluxe": 96.1,
+      "twin": 77.2,
+      "suite": 71
+    }
+  },
+  {
+    "date": "2026-01-25",
+    "roomRevenue": 5955,
+    "restaurantRevenue": 1047,
+    "otherRevenue": 1198,
+    "roomsAvailable": 150,
+    "roomsSold": 115,
+    "roomTypeOccupancy": {
+      "standard": 66.7,
+      "deluxe": 72.2,
+      "twin": 61.8,
+      "suite": 68.5
+    }
+  },
+  {
+    "date": "2026-01-26",
+    "roomRevenue": 2654,
+    "restaurantRevenue": 1733,
+    "otherRevenue": 1088,
+    "roomsAvailable": 150,
+    "roomsSold": 122,
+    "roomTypeOccupancy": {
+      "standard": 96,
+      "deluxe": 76.2,
+      "twin": 93.9,
+      "suite": 84.3
+    }
+  },
+  {
+    "date": "2026-01-27",
+    "roomRevenue": 3418,
+    "restaurantRevenue": 1886,
+    "otherRevenue": 2201,
+    "roomsAvailable": 150,
+    "roomsSold": 114,
+    "roomTypeOccupancy": {
+      "standard": 66.9,
+      "deluxe": 64.7,
+      "twin": 87.1,
+      "suite": 61.3
+    }
+  },
+  {
+    "date": "2026-01-28",
+    "roomRevenue": 3437,
+    "restaurantRevenue": 1663,
+    "otherRevenue": 3559,
+    "roomsAvailable": 150,
+    "roomsSold": 116,
+    "roomTypeOccupancy": {
+      "standard": 63.5,
+      "deluxe": 77.9,
+      "twin": 72.1,
+      "suite": 72.3
+    }
+  },
+  {
+    "date": "2026-01-29",
+    "roomRevenue": 7482,
+    "restaurantRevenue": 584,
+    "otherRevenue": 1531,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 63.3,
+      "deluxe": 93,
+      "twin": 80.3,
+      "suite": 70.5
+    }
+  },
+  {
+    "date": "2026-01-30",
+    "roomRevenue": 3632,
+    "restaurantRevenue": 1226,
+    "otherRevenue": 627,
+    "roomsAvailable": 150,
+    "roomsSold": 133,
+    "roomTypeOccupancy": {
+      "standard": 96.6,
+      "deluxe": 94,
+      "twin": 88.5,
+      "suite": 86
+    }
+  },
+  {
+    "date": "2026-01-31",
+    "roomRevenue": 5236,
+    "restaurantRevenue": 1377,
+    "otherRevenue": 1368,
+    "roomsAvailable": 150,
+    "roomsSold": 124,
+    "roomTypeOccupancy": {
+      "standard": 74.2,
+      "deluxe": 87.8,
+      "twin": 84.3,
+      "suite": 61.5
+    }
+  },
+  {
+    "date": "2026-02-01",
+    "roomRevenue": 2380,
+    "restaurantRevenue": 750,
+    "otherRevenue": 1762,
+    "roomsAvailable": 150,
+    "roomsSold": 111,
+    "roomTypeOccupancy": {
+      "standard": 66.9,
+      "deluxe": 69.4,
+      "twin": 65.7,
+      "suite": 83.3
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "roomRevenue": 5990,
+    "restaurantRevenue": 1437,
+    "otherRevenue": 1646,
+    "roomsAvailable": 150,
+    "roomsSold": 127,
+    "roomTypeOccupancy": {
+      "standard": 84.9,
+      "deluxe": 72.3,
+      "twin": 84.6,
+      "suite": 80.3
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "roomRevenue": 6070,
+    "restaurantRevenue": 1122,
+    "otherRevenue": 1007,
+    "roomsAvailable": 150,
+    "roomsSold": 135,
+    "roomTypeOccupancy": {
+      "standard": 74.5,
+      "deluxe": 65.2,
+      "twin": 74.2,
+      "suite": 87.2
+    }
+  },
+  {
+    "date": "2026-02-04",
+    "roomRevenue": 5613,
+    "restaurantRevenue": 1482,
+    "otherRevenue": 1360,
+    "roomsAvailable": 150,
+    "roomsSold": 111,
+    "roomTypeOccupancy": {
+      "standard": 92.8,
+      "deluxe": 96.9,
+      "twin": 71.2,
+      "suite": 78.7
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "roomRevenue": 8063,
+    "restaurantRevenue": 420,
+    "otherRevenue": 670,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 95.6,
+      "deluxe": 78.3,
+      "twin": 87,
+      "suite": 73.2
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "roomRevenue": 3927,
+    "restaurantRevenue": 1535,
+    "otherRevenue": 1304,
+    "roomsAvailable": 150,
+    "roomsSold": 134,
+    "roomTypeOccupancy": {
+      "standard": 87.1,
+      "deluxe": 67.8,
+      "twin": 84.2,
+      "suite": 73.8
+    }
+  },
+  {
+    "date": "2026-02-07",
+    "roomRevenue": 6611,
+    "restaurantRevenue": 1027,
+    "otherRevenue": 1163,
+    "roomsAvailable": 150,
+    "roomsSold": 116,
+    "roomTypeOccupancy": {
+      "standard": 90.5,
+      "deluxe": 63.7,
+      "twin": 64.1,
+      "suite": 95.3
+    }
+  },
+  {
+    "date": "2026-02-08",
+    "roomRevenue": 4492,
+    "restaurantRevenue": 861,
+    "otherRevenue": 2241,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 85.7,
+      "deluxe": 67.8,
+      "twin": 70.4,
+      "suite": 68.3
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "roomRevenue": 2363,
+    "restaurantRevenue": 1860,
+    "otherRevenue": 1222,
+    "roomsAvailable": 150,
+    "roomsSold": 114,
+    "roomTypeOccupancy": {
+      "standard": 86.1,
+      "deluxe": 82.2,
+      "twin": 75.7,
+      "suite": 75.8
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "roomRevenue": 8233,
+    "restaurantRevenue": 715,
+    "otherRevenue": 974,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 63.5,
+      "deluxe": 63.9,
+      "twin": 67,
+      "suite": 98.4
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "roomRevenue": 3786,
+    "restaurantRevenue": 1732,
+    "otherRevenue": 1142,
+    "roomsAvailable": 150,
+    "roomsSold": 121,
+    "roomTypeOccupancy": {
+      "standard": 77.9,
+      "deluxe": 65.5,
+      "twin": 87.1,
+      "suite": 64
+    }
+  },
+  {
+    "date": "2026-02-12",
+    "roomRevenue": 3012,
+    "restaurantRevenue": 1203,
+    "otherRevenue": 1885,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 64.6,
+      "deluxe": 89.5,
+      "twin": 87.9,
+      "suite": 68.9
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "roomRevenue": 5357,
+    "restaurantRevenue": 847,
+    "otherRevenue": 1107,
+    "roomsAvailable": 150,
+    "roomsSold": 120,
+    "roomTypeOccupancy": {
+      "standard": 81.7,
+      "deluxe": 85.2,
+      "twin": 85.4,
+      "suite": 92.1
+    }
+  },
+  {
+    "date": "2026-02-14",
+    "roomRevenue": 5685,
+    "restaurantRevenue": 1382,
+    "otherRevenue": 897,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 87.5,
+      "deluxe": 85.3,
+      "twin": 84.7,
+      "suite": 85.6
+    }
+  },
+  {
+    "date": "2026-02-15",
+    "roomRevenue": 4081,
+    "restaurantRevenue": 1730,
+    "otherRevenue": 1268,
+    "roomsAvailable": 150,
+    "roomsSold": 123,
+    "roomTypeOccupancy": {
+      "standard": 87,
+      "deluxe": 84.1,
+      "twin": 85.8,
+      "suite": 81.7
+    }
+  },
+  {
+    "date": "2026-02-16",
+    "roomRevenue": 7045,
+    "restaurantRevenue": 523,
+    "otherRevenue": 1253,
+    "roomsAvailable": 150,
+    "roomsSold": 128,
+    "roomTypeOccupancy": {
+      "standard": 93.4,
+      "deluxe": 80.5,
+      "twin": 94.3,
+      "suite": 60.2
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "roomRevenue": 5435,
+    "restaurantRevenue": 1498,
+    "otherRevenue": 1133,
+    "roomsAvailable": 150,
+    "roomsSold": 115,
+    "roomTypeOccupancy": {
+      "standard": 66.3,
+      "deluxe": 69.5,
+      "twin": 84.6,
+      "suite": 75.2
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "roomRevenue": 3091,
+    "restaurantRevenue": 1740,
+    "otherRevenue": 1429,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 76,
+      "deluxe": 97.4,
+      "twin": 72.2,
+      "suite": 91.2
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "roomRevenue": 5422,
+    "restaurantRevenue": 798,
+    "otherRevenue": 1748,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 75.6,
+      "deluxe": 78.5,
+      "twin": 76,
+      "suite": 75.5
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "roomRevenue": 6592,
+    "restaurantRevenue": 497,
+    "otherRevenue": 909,
+    "roomsAvailable": 150,
+    "roomsSold": 128,
+    "roomTypeOccupancy": {
+      "standard": 61.4,
+      "deluxe": 97.6,
+      "twin": 76.1,
+      "suite": 67.9
+    }
+  },
+  {
+    "date": "2026-02-21",
+    "roomRevenue": 6447,
+    "restaurantRevenue": 1368,
+    "otherRevenue": 1719,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 87.4,
+      "deluxe": 75,
+      "twin": 83.5,
+      "suite": 98
+    }
+  },
+  {
+    "date": "2026-02-22",
+    "roomRevenue": 5411,
+    "restaurantRevenue": 1203,
+    "otherRevenue": 1336,
+    "roomsAvailable": 150,
+    "roomsSold": 128,
+    "roomTypeOccupancy": {
+      "standard": 83.2,
+      "deluxe": 98.4,
+      "twin": 91.4,
+      "suite": 71.2
+    }
+  },
+  {
+    "date": "2026-02-23",
+    "roomRevenue": 3973,
+    "restaurantRevenue": 1818,
+    "otherRevenue": 2064,
+    "roomsAvailable": 150,
+    "roomsSold": 111,
+    "roomTypeOccupancy": {
+      "standard": 81.3,
+      "deluxe": 81.1,
+      "twin": 74.9,
+      "suite": 87.9
+    }
+  },
+  {
+    "date": "2026-02-24",
+    "roomRevenue": 7245,
+    "restaurantRevenue": 767,
+    "otherRevenue": 1218,
+    "roomsAvailable": 150,
+    "roomsSold": 122,
+    "roomTypeOccupancy": {
+      "standard": 74.8,
+      "deluxe": 86.4,
+      "twin": 85.5,
+      "suite": 68.8
+    }
+  },
+  {
+    "date": "2026-02-25",
+    "roomRevenue": 6778,
+    "restaurantRevenue": 731,
+    "otherRevenue": 1246,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 97.9,
+      "deluxe": 92.7,
+      "twin": 83.7,
+      "suite": 78
+    }
+  },
+  {
+    "date": "2026-02-26",
+    "roomRevenue": 3160,
+    "restaurantRevenue": 1565,
+    "otherRevenue": 1280,
+    "roomsAvailable": 150,
+    "roomsSold": 121,
+    "roomTypeOccupancy": {
+      "standard": 89.2,
+      "deluxe": 90.5,
+      "twin": 77.9,
+      "suite": 84.4
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "roomRevenue": 5273,
+    "restaurantRevenue": 1348,
+    "otherRevenue": 1045,
+    "roomsAvailable": 150,
+    "roomsSold": 121,
+    "roomTypeOccupancy": {
+      "standard": 72.8,
+      "deluxe": 92.2,
+      "twin": 67.7,
+      "suite": 61.3
+    }
+  },
+  {
+    "date": "2026-02-28",
+    "roomRevenue": 2917,
+    "restaurantRevenue": 1696,
+    "otherRevenue": 273,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 74.1,
+      "deluxe": 69.9,
+      "twin": 64.6,
+      "suite": 70.5
+    }
+  },
+  {
+    "date": "2026-03-01",
+    "roomRevenue": 4583,
+    "restaurantRevenue": 1517,
+    "otherRevenue": 1046,
+    "roomsAvailable": 150,
+    "roomsSold": 134,
+    "roomTypeOccupancy": {
+      "standard": 96,
+      "deluxe": 83.1,
+      "twin": 61.3,
+      "suite": 81.6
+    }
+  },
+  {
+    "date": "2026-03-02",
+    "roomRevenue": 5136,
+    "restaurantRevenue": 890,
+    "otherRevenue": 962,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 83.8,
+      "deluxe": 96.2,
+      "twin": 77,
+      "suite": 68.2
+    }
+  },
+  {
+    "date": "2026-03-03",
+    "roomRevenue": 6948,
+    "restaurantRevenue": 1780,
+    "otherRevenue": 359,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 86.5,
+      "deluxe": 60.5,
+      "twin": 73,
+      "suite": 63.8
+    }
+  },
+  {
+    "date": "2026-03-04",
+    "roomRevenue": 5149,
+    "restaurantRevenue": 1107,
+    "otherRevenue": 1498,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 81.4,
+      "deluxe": 79.9,
+      "twin": 89.3,
+      "suite": 77.9
+    }
+  },
+  {
+    "date": "2026-03-05",
+    "roomRevenue": 5797,
+    "restaurantRevenue": 993,
+    "otherRevenue": 1275,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 70.5,
+      "deluxe": 67.8,
+      "twin": 63.6,
+      "suite": 83.2
+    }
+  },
+  {
+    "date": "2026-03-06",
+    "roomRevenue": 6666,
+    "restaurantRevenue": 1505,
+    "otherRevenue": 1574,
+    "roomsAvailable": 150,
+    "roomsSold": 135,
+    "roomTypeOccupancy": {
+      "standard": 63.3,
+      "deluxe": 70.3,
+      "twin": 73.3,
+      "suite": 85.5
+    }
+  },
+  {
+    "date": "2026-03-07",
+    "roomRevenue": 7905,
+    "restaurantRevenue": 596,
+    "otherRevenue": 1346,
+    "roomsAvailable": 150,
+    "roomsSold": 118,
+    "roomTypeOccupancy": {
+      "standard": 95.6,
+      "deluxe": 69.5,
+      "twin": 67.8,
+      "suite": 84.9
+    }
+  },
+  {
+    "date": "2026-03-08",
+    "roomRevenue": 6195,
+    "restaurantRevenue": 591,
+    "otherRevenue": 2720,
+    "roomsAvailable": 150,
+    "roomsSold": 132,
+    "roomTypeOccupancy": {
+      "standard": 86.5,
+      "deluxe": 97.3,
+      "twin": 72.1,
+      "suite": 77.3
+    }
+  },
+  {
+    "date": "2026-03-09",
+    "roomRevenue": 3342,
+    "restaurantRevenue": 807,
+    "otherRevenue": 1416,
+    "roomsAvailable": 150,
+    "roomsSold": 112,
+    "roomTypeOccupancy": {
+      "standard": 89.7,
+      "deluxe": 77.1,
+      "twin": 61.8,
+      "suite": 87.3
+    }
+  },
+  {
+    "date": "2026-03-10",
+    "roomRevenue": 2735,
+    "restaurantRevenue": 1832,
+    "otherRevenue": 1183,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 61.5,
+      "deluxe": 81,
+      "twin": 63.4,
+      "suite": 72.1
+    }
+  },
+  {
+    "date": "2026-03-11",
+    "roomRevenue": 8204,
+    "restaurantRevenue": 807,
+    "otherRevenue": 1484,
+    "roomsAvailable": 150,
+    "roomsSold": 127,
+    "roomTypeOccupancy": {
+      "standard": 74.6,
+      "deluxe": 90.9,
+      "twin": 68.4,
+      "suite": 63.9
+    }
+  },
+  {
+    "date": "2026-03-12",
+    "roomRevenue": 6223,
+    "restaurantRevenue": 1845,
+    "otherRevenue": 2902,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 87.1,
+      "deluxe": 72.5,
+      "twin": 82.5,
+      "suite": 90.5
+    }
+  },
+  {
+    "date": "2026-03-13",
+    "roomRevenue": 6383,
+    "restaurantRevenue": 1505,
+    "otherRevenue": 1475,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 93.9,
+      "deluxe": 95.5,
+      "twin": 92.6,
+      "suite": 91.5
+    }
+  },
+  {
+    "date": "2026-03-14",
+    "roomRevenue": 2695,
+    "restaurantRevenue": 1467,
+    "otherRevenue": 1618,
+    "roomsAvailable": 150,
+    "roomsSold": 115,
+    "roomTypeOccupancy": {
+      "standard": 94.6,
+      "deluxe": 93.1,
+      "twin": 89.9,
+      "suite": 76.2
+    }
+  },
+  {
+    "date": "2026-03-15",
+    "roomRevenue": 3251,
+    "restaurantRevenue": 1730,
+    "otherRevenue": 1369,
+    "roomsAvailable": 150,
+    "roomsSold": 115,
+    "roomTypeOccupancy": {
+      "standard": 81.4,
+      "deluxe": 87.2,
+      "twin": 65.6,
+      "suite": 90.6
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "roomRevenue": 5267,
+    "restaurantRevenue": 532,
+    "otherRevenue": 1622,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 72.5,
+      "deluxe": 68.6,
+      "twin": 65.4,
+      "suite": 60.5
+    }
+  },
+  {
+    "date": "2026-03-17",
+    "roomRevenue": 6938,
+    "restaurantRevenue": 774,
+    "otherRevenue": 1207,
+    "roomsAvailable": 150,
+    "roomsSold": 116,
+    "roomTypeOccupancy": {
+      "standard": 82.8,
+      "deluxe": 94.9,
+      "twin": 67.4,
+      "suite": 85.1
+    }
+  },
+  {
+    "date": "2026-03-18",
+    "roomRevenue": 5921,
+    "restaurantRevenue": 1705,
+    "otherRevenue": 1808,
+    "roomsAvailable": 150,
+    "roomsSold": 115,
+    "roomTypeOccupancy": {
+      "standard": 60.7,
+      "deluxe": 98.5,
+      "twin": 97.4,
+      "suite": 90.7
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "roomRevenue": 7999,
+    "restaurantRevenue": 808,
+    "otherRevenue": 1184,
+    "roomsAvailable": 150,
+    "roomsSold": 114,
+    "roomTypeOccupancy": {
+      "standard": 84,
+      "deluxe": 92.8,
+      "twin": 86.1,
+      "suite": 62.2
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "roomRevenue": 6309,
+    "restaurantRevenue": 658,
+    "otherRevenue": 197,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 89.7,
+      "deluxe": 80.4,
+      "twin": 94.9,
+      "suite": 86
+    }
+  },
+  {
+    "date": "2026-03-21",
+    "roomRevenue": 2682,
+    "restaurantRevenue": 786,
+    "otherRevenue": 1427,
+    "roomsAvailable": 150,
+    "roomsSold": 130,
+    "roomTypeOccupancy": {
+      "standard": 88.3,
+      "deluxe": 92.7,
+      "twin": 85,
+      "suite": 68.3
+    }
+  },
+  {
+    "date": "2026-03-22",
+    "roomRevenue": 6754,
+    "restaurantRevenue": 609,
+    "otherRevenue": 643,
+    "roomsAvailable": 150,
+    "roomsSold": 130,
+    "roomTypeOccupancy": {
+      "standard": 76,
+      "deluxe": 76.5,
+      "twin": 73.4,
+      "suite": 89.7
+    }
+  },
+  {
+    "date": "2026-03-23",
+    "roomRevenue": 3312,
+    "restaurantRevenue": 1095,
+    "otherRevenue": 809,
+    "roomsAvailable": 150,
+    "roomsSold": 122,
+    "roomTypeOccupancy": {
+      "standard": 95.3,
+      "deluxe": 65.8,
+      "twin": 74.9,
+      "suite": 67.8
+    }
+  },
+  {
+    "date": "2026-03-24",
+    "roomRevenue": 6021,
+    "restaurantRevenue": 888,
+    "otherRevenue": 1636,
+    "roomsAvailable": 150,
+    "roomsSold": 111,
+    "roomTypeOccupancy": {
+      "standard": 68.3,
+      "deluxe": 70,
+      "twin": 64.4,
+      "suite": 66.1
+    }
+  },
+  {
+    "date": "2026-03-25",
+    "roomRevenue": 2992,
+    "restaurantRevenue": 1473,
+    "otherRevenue": 727,
+    "roomsAvailable": 150,
+    "roomsSold": 123,
+    "roomTypeOccupancy": {
+      "standard": 76.1,
+      "deluxe": 93.2,
+      "twin": 60.8,
+      "suite": 78.2
+    }
+  },
+  {
+    "date": "2026-03-26",
+    "roomRevenue": 4205,
+    "restaurantRevenue": 1136,
+    "otherRevenue": 649,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 62.3,
+      "deluxe": 84.2,
+      "twin": 89.6,
+      "suite": 84
+    }
+  },
+  {
+    "date": "2026-03-27",
+    "roomRevenue": 5654,
+    "restaurantRevenue": 990,
+    "otherRevenue": 1064,
+    "roomsAvailable": 150,
+    "roomsSold": 112,
+    "roomTypeOccupancy": {
+      "standard": 84.4,
+      "deluxe": 86.6,
+      "twin": 85.9,
+      "suite": 82.4
+    }
+  },
+  {
+    "date": "2026-03-28",
+    "roomRevenue": 7705,
+    "restaurantRevenue": 1519,
+    "otherRevenue": 700,
+    "roomsAvailable": 150,
+    "roomsSold": 110,
+    "roomTypeOccupancy": {
+      "standard": 94.1,
+      "deluxe": 67.1,
+      "twin": 83.7,
+      "suite": 72.4
+    }
+  },
+  {
+    "date": "2026-03-29",
+    "roomRevenue": 2778,
+    "restaurantRevenue": 1153,
+    "otherRevenue": 1355,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 76.2,
+      "deluxe": 60.4,
+      "twin": 63.5,
+      "suite": 96.6
+    }
+  },
+  {
+    "date": "2026-03-30",
+    "roomRevenue": 6957,
+    "restaurantRevenue": 996,
+    "otherRevenue": 1611,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 73.5,
+      "deluxe": 96.8,
+      "twin": 89.8,
+      "suite": 81.6
+    }
+  },
+  {
+    "date": "2026-03-31",
+    "roomRevenue": 4135,
+    "restaurantRevenue": 894,
+    "otherRevenue": 774,
+    "roomsAvailable": 150,
+    "roomsSold": 125,
+    "roomTypeOccupancy": {
+      "standard": 60.6,
+      "deluxe": 60.8,
+      "twin": 95.5,
+      "suite": 83.5
+    }
+  },
+  {
+    "date": "2026-04-01",
+    "roomRevenue": 6786,
+    "restaurantRevenue": 1206,
+    "otherRevenue": 1272,
+    "roomsAvailable": 150,
+    "roomsSold": 110,
+    "roomTypeOccupancy": {
+      "standard": 62.9,
+      "deluxe": 65.8,
+      "twin": 86.1,
+      "suite": 95.4
+    }
+  },
+  {
+    "date": "2026-04-02",
+    "roomRevenue": 6121,
+    "restaurantRevenue": 1159,
+    "otherRevenue": 1258,
+    "roomsAvailable": 150,
+    "roomsSold": 124,
+    "roomTypeOccupancy": {
+      "standard": 97.3,
+      "deluxe": 64.7,
+      "twin": 72.1,
+      "suite": 62.6
+    }
+  },
+  {
+    "date": "2026-04-03",
+    "roomRevenue": 5641,
+    "restaurantRevenue": 1306,
+    "otherRevenue": 1375,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 91.8,
+      "deluxe": 70.9,
+      "twin": 72.4,
+      "suite": 96.1
+    }
+  },
+  {
+    "date": "2026-04-04",
+    "roomRevenue": 3629,
+    "restaurantRevenue": 1065,
+    "otherRevenue": 1792,
+    "roomsAvailable": 150,
+    "roomsSold": 115,
+    "roomTypeOccupancy": {
+      "standard": 68.2,
+      "deluxe": 67.5,
+      "twin": 65.8,
+      "suite": 80.3
+    }
+  },
+  {
+    "date": "2026-04-05",
+    "roomRevenue": 3024,
+    "restaurantRevenue": 469,
+    "otherRevenue": 1056,
+    "roomsAvailable": 150,
+    "roomsSold": 111,
+    "roomTypeOccupancy": {
+      "standard": 64,
+      "deluxe": 72,
+      "twin": 76.4,
+      "suite": 64
+    }
+  },
+  {
+    "date": "2026-04-06",
+    "roomRevenue": 3690,
+    "restaurantRevenue": 391,
+    "otherRevenue": 789,
+    "roomsAvailable": 150,
+    "roomsSold": 123,
+    "roomTypeOccupancy": {
+      "standard": 75.8,
+      "deluxe": 60.2,
+      "twin": 89.4,
+      "suite": 81
+    }
+  },
+  {
+    "date": "2026-04-07",
+    "roomRevenue": 4681,
+    "restaurantRevenue": 1257,
+    "otherRevenue": 959,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 70.1,
+      "deluxe": 73.2,
+      "twin": 66.4,
+      "suite": 95.5
+    }
+  },
+  {
+    "date": "2026-04-08",
+    "roomRevenue": 6330,
+    "restaurantRevenue": 391,
+    "otherRevenue": 1600,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 90,
+      "deluxe": 74.5,
+      "twin": 91.7,
+      "suite": 92.5
+    }
+  },
+  {
+    "date": "2026-04-09",
+    "roomRevenue": 2613,
+    "restaurantRevenue": 835,
+    "otherRevenue": 1400,
+    "roomsAvailable": 150,
+    "roomsSold": 130,
+    "roomTypeOccupancy": {
+      "standard": 76.8,
+      "deluxe": 63.4,
+      "twin": 78.4,
+      "suite": 82.4
+    }
+  },
+  {
+    "date": "2026-04-10",
+    "roomRevenue": 4915,
+    "restaurantRevenue": 922,
+    "otherRevenue": 502,
+    "roomsAvailable": 150,
+    "roomsSold": 125,
+    "roomTypeOccupancy": {
+      "standard": 92,
+      "deluxe": 63.5,
+      "twin": 96.6,
+      "suite": 65.4
+    }
+  },
+  {
+    "date": "2026-04-11",
+    "roomRevenue": 3250,
+    "restaurantRevenue": 1006,
+    "otherRevenue": 879,
+    "roomsAvailable": 150,
+    "roomsSold": 114,
+    "roomTypeOccupancy": {
+      "standard": 72.2,
+      "deluxe": 87.7,
+      "twin": 88.7,
+      "suite": 83.4
+    }
+  },
+  {
+    "date": "2026-04-12",
+    "roomRevenue": 4172,
+    "restaurantRevenue": 1345,
+    "otherRevenue": 592,
+    "roomsAvailable": 150,
+    "roomsSold": 125,
+    "roomTypeOccupancy": {
+      "standard": 97.6,
+      "deluxe": 83.3,
+      "twin": 97.5,
+      "suite": 77.9
+    }
+  },
+  {
+    "date": "2026-04-13",
+    "roomRevenue": 7173,
+    "restaurantRevenue": 1247,
+    "otherRevenue": 2170,
+    "roomsAvailable": 150,
+    "roomsSold": 116,
+    "roomTypeOccupancy": {
+      "standard": 76.1,
+      "deluxe": 82.1,
+      "twin": 78.5,
+      "suite": 61.3
+    }
+  },
+  {
+    "date": "2026-04-14",
+    "roomRevenue": 4879,
+    "restaurantRevenue": 434,
+    "otherRevenue": 985,
+    "roomsAvailable": 150,
+    "roomsSold": 133,
+    "roomTypeOccupancy": {
+      "standard": 85.4,
+      "deluxe": 67.7,
+      "twin": 97.2,
+      "suite": 91.7
+    }
+  },
+  {
+    "date": "2026-04-15",
+    "roomRevenue": 3427,
+    "restaurantRevenue": 1534,
+    "otherRevenue": 1769,
+    "roomsAvailable": 150,
+    "roomsSold": 114,
+    "roomTypeOccupancy": {
+      "standard": 99,
+      "deluxe": 67.2,
+      "twin": 88.7,
+      "suite": 78.7
+    }
+  },
+  {
+    "date": "2026-04-16",
+    "roomRevenue": 5695,
+    "restaurantRevenue": 1854,
+    "otherRevenue": 904,
+    "roomsAvailable": 150,
+    "roomsSold": 112,
+    "roomTypeOccupancy": {
+      "standard": 77.5,
+      "deluxe": 61.5,
+      "twin": 77,
+      "suite": 92.6
+    }
+  },
+  {
+    "date": "2026-04-17",
+    "roomRevenue": 3596,
+    "restaurantRevenue": 1453,
+    "otherRevenue": 619,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 90.7,
+      "deluxe": 81.9,
+      "twin": 90.6,
+      "suite": 88
+    }
+  },
+  {
+    "date": "2026-04-18",
+    "roomRevenue": 4642,
+    "restaurantRevenue": 1220,
+    "otherRevenue": 1283,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 70.3,
+      "deluxe": 73.3,
+      "twin": 79.2,
+      "suite": 94.3
+    }
+  },
+  {
+    "date": "2026-04-19",
+    "roomRevenue": 4391,
+    "restaurantRevenue": 945,
+    "otherRevenue": 963,
+    "roomsAvailable": 150,
+    "roomsSold": 129,
+    "roomTypeOccupancy": {
+      "standard": 95.3,
+      "deluxe": 89.7,
+      "twin": 91.9,
+      "suite": 84.9
+    }
+  },
+  {
+    "date": "2026-04-20",
+    "roomRevenue": 7945,
+    "restaurantRevenue": 882,
+    "otherRevenue": 1308,
+    "roomsAvailable": 150,
+    "roomsSold": 135,
+    "roomTypeOccupancy": {
+      "standard": 90,
+      "deluxe": 96.7,
+      "twin": 61.5,
+      "suite": 93.1
+    }
+  },
+  {
+    "date": "2026-04-21",
+    "roomRevenue": 5276,
+    "restaurantRevenue": 1867,
+    "otherRevenue": 940,
+    "roomsAvailable": 150,
+    "roomsSold": 125,
+    "roomTypeOccupancy": {
+      "standard": 83.9,
+      "deluxe": 93,
+      "twin": 84.3,
+      "suite": 64.6
+    }
+  },
+  {
+    "date": "2026-04-22",
+    "roomRevenue": 2360,
+    "restaurantRevenue": 1563,
+    "otherRevenue": 1104,
+    "roomsAvailable": 150,
+    "roomsSold": 116,
+    "roomTypeOccupancy": {
+      "standard": 96.5,
+      "deluxe": 82.6,
+      "twin": 74.4,
+      "suite": 73
+    }
+  },
+  {
+    "date": "2026-04-23",
+    "roomRevenue": 6124,
+    "restaurantRevenue": 1851,
+    "otherRevenue": 3286,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 62.1,
+      "deluxe": 91.6,
+      "twin": 86.7,
+      "suite": 94.8
+    }
+  },
+  {
+    "date": "2026-04-24",
+    "roomRevenue": 5321,
+    "restaurantRevenue": 816,
+    "otherRevenue": 1861,
+    "roomsAvailable": 150,
+    "roomsSold": 121,
+    "roomTypeOccupancy": {
+      "standard": 87.8,
+      "deluxe": 67.2,
+      "twin": 84,
+      "suite": 92.3
+    }
+  },
+  {
+    "date": "2026-04-25",
+    "roomRevenue": 5268,
+    "restaurantRevenue": 1540,
+    "otherRevenue": 1760,
+    "roomsAvailable": 150,
+    "roomsSold": 112,
+    "roomTypeOccupancy": {
+      "standard": 73.9,
+      "deluxe": 77.9,
+      "twin": 74.7,
+      "suite": 81.6
+    }
+  },
+  {
+    "date": "2026-04-26",
+    "roomRevenue": 7351,
+    "restaurantRevenue": 424,
+    "otherRevenue": 2231,
+    "roomsAvailable": 150,
+    "roomsSold": 120,
+    "roomTypeOccupancy": {
+      "standard": 97.5,
+      "deluxe": 70.5,
+      "twin": 69,
+      "suite": 98.4
+    }
+  },
+  {
+    "date": "2026-04-27",
+    "roomRevenue": 6558,
+    "restaurantRevenue": 1873,
+    "otherRevenue": 1584,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 94.8,
+      "deluxe": 75.2,
+      "twin": 74,
+      "suite": 68.6
+    }
+  },
+  {
+    "date": "2026-04-28",
+    "roomRevenue": 4252,
+    "restaurantRevenue": 1251,
+    "otherRevenue": 2858,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 90.1,
+      "deluxe": 72.9,
+      "twin": 92.1,
+      "suite": 87.2
+    }
+  },
+  {
+    "date": "2026-04-29",
+    "roomRevenue": 6442,
+    "restaurantRevenue": 745,
+    "otherRevenue": 3129,
+    "roomsAvailable": 150,
+    "roomsSold": 134,
+    "roomTypeOccupancy": {
+      "standard": 79.9,
+      "deluxe": 84.9,
+      "twin": 77,
+      "suite": 63.3
+    }
+  },
+  {
+    "date": "2026-04-30",
+    "roomRevenue": 2790,
+    "restaurantRevenue": 1016,
+    "otherRevenue": 1691,
+    "roomsAvailable": 150,
+    "roomsSold": 123,
+    "roomTypeOccupancy": {
+      "standard": 95,
+      "deluxe": 85.6,
+      "twin": 91.2,
+      "suite": 70.8
+    }
+  },
+  {
+    "date": "2026-05-01",
+    "roomRevenue": 5553,
+    "restaurantRevenue": 573,
+    "otherRevenue": 1567,
+    "roomsAvailable": 150,
+    "roomsSold": 111,
+    "roomTypeOccupancy": {
+      "standard": 96,
+      "deluxe": 78.6,
+      "twin": 69.8,
+      "suite": 84.4
+    }
+  },
+  {
+    "date": "2026-05-02",
+    "roomRevenue": 4856,
+    "restaurantRevenue": 479,
+    "otherRevenue": 715,
+    "roomsAvailable": 150,
+    "roomsSold": 133,
+    "roomTypeOccupancy": {
+      "standard": 73.5,
+      "deluxe": 64.7,
+      "twin": 61.7,
+      "suite": 79.8
+    }
+  },
+  {
+    "date": "2026-05-03",
+    "roomRevenue": 8131,
+    "restaurantRevenue": 1671,
+    "otherRevenue": 1715,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 71.2,
+      "deluxe": 95.4,
+      "twin": 64.7,
+      "suite": 60
+    }
+  },
+  {
+    "date": "2026-05-04",
+    "roomRevenue": 2841,
+    "restaurantRevenue": 1901,
+    "otherRevenue": 1640,
+    "roomsAvailable": 150,
+    "roomsSold": 128,
+    "roomTypeOccupancy": {
+      "standard": 79.3,
+      "deluxe": 96.1,
+      "twin": 71.6,
+      "suite": 74
+    }
+  },
+  {
+    "date": "2026-05-05",
+    "roomRevenue": 8242,
+    "restaurantRevenue": 1430,
+    "otherRevenue": 2152,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 83.3,
+      "deluxe": 79.2,
+      "twin": 66.3,
+      "suite": 65.1
+    }
+  },
+  {
+    "date": "2026-05-06",
+    "roomRevenue": 4520,
+    "restaurantRevenue": 1549,
+    "otherRevenue": 1081,
+    "roomsAvailable": 150,
+    "roomsSold": 125,
+    "roomTypeOccupancy": {
+      "standard": 89.4,
+      "deluxe": 72,
+      "twin": 95.5,
+      "suite": 64.8
+    }
+  },
+  {
+    "date": "2026-05-07",
+    "roomRevenue": 4380,
+    "restaurantRevenue": 1333,
+    "otherRevenue": 1580,
+    "roomsAvailable": 150,
+    "roomsSold": 115,
+    "roomTypeOccupancy": {
+      "standard": 83,
+      "deluxe": 77.1,
+      "twin": 91.2,
+      "suite": 66.1
+    }
+  },
+  {
+    "date": "2026-05-08",
+    "roomRevenue": 3660,
+    "restaurantRevenue": 1411,
+    "otherRevenue": 1764,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 60.5,
+      "deluxe": 83.9,
+      "twin": 95.6,
+      "suite": 82.9
+    }
+  },
+  {
+    "date": "2026-05-09",
+    "roomRevenue": 5413,
+    "restaurantRevenue": 1320,
+    "otherRevenue": 3786,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 66.4,
+      "deluxe": 62,
+      "twin": 77.5,
+      "suite": 71.3
+    }
+  },
+  {
+    "date": "2026-05-10",
+    "roomRevenue": 6819,
+    "restaurantRevenue": 770,
+    "otherRevenue": 2540,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 84.9,
+      "deluxe": 74.1,
+      "twin": 76.7,
+      "suite": 93.2
+    }
+  },
+  {
+    "date": "2026-05-11",
+    "roomRevenue": 2620,
+    "restaurantRevenue": 1775,
+    "otherRevenue": 3034,
+    "roomsAvailable": 150,
+    "roomsSold": 127,
+    "roomTypeOccupancy": {
+      "standard": 91.5,
+      "deluxe": 75.1,
+      "twin": 61.5,
+      "suite": 68.8
+    }
+  },
+  {
+    "date": "2026-05-12",
+    "roomRevenue": 5016,
+    "restaurantRevenue": 1070,
+    "otherRevenue": 461,
+    "roomsAvailable": 150,
+    "roomsSold": 126,
+    "roomTypeOccupancy": {
+      "standard": 68.3,
+      "deluxe": 97.1,
+      "twin": 70.6,
+      "suite": 61.3
+    }
+  },
+  {
+    "date": "2026-05-13",
+    "roomRevenue": 4783,
+    "restaurantRevenue": 433,
+    "otherRevenue": 828,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 77.2,
+      "deluxe": 73.8,
+      "twin": 92,
+      "suite": 73.3
+    }
+  },
+  {
+    "date": "2026-05-14",
+    "roomRevenue": 4994,
+    "restaurantRevenue": 1080,
+    "otherRevenue": 1226,
+    "roomsAvailable": 150,
+    "roomsSold": 112,
+    "roomTypeOccupancy": {
+      "standard": 95.6,
+      "deluxe": 63.6,
+      "twin": 84.4,
+      "suite": 92.1
+    }
+  },
+  {
+    "date": "2026-05-15",
+    "roomRevenue": 7155,
+    "restaurantRevenue": 742,
+    "otherRevenue": 983,
+    "roomsAvailable": 150,
+    "roomsSold": 123,
+    "roomTypeOccupancy": {
+      "standard": 66.3,
+      "deluxe": 86.9,
+      "twin": 90.3,
+      "suite": 76.7
+    }
+  },
+  {
+    "date": "2026-05-16",
+    "roomRevenue": 6236,
+    "restaurantRevenue": 1865,
+    "otherRevenue": 839,
+    "roomsAvailable": 150,
+    "roomsSold": 129,
+    "roomTypeOccupancy": {
+      "standard": 91.2,
+      "deluxe": 86.3,
+      "twin": 77,
+      "suite": 98.1
+    }
+  },
+  {
+    "date": "2026-05-17",
+    "roomRevenue": 3180,
+    "restaurantRevenue": 1371,
+    "otherRevenue": 1005,
+    "roomsAvailable": 150,
+    "roomsSold": 116,
+    "roomTypeOccupancy": {
+      "standard": 92.3,
+      "deluxe": 97.1,
+      "twin": 69.2,
+      "suite": 67.8
+    }
+  },
+  {
+    "date": "2026-05-18",
+    "roomRevenue": 6589,
+    "restaurantRevenue": 697,
+    "otherRevenue": 1738,
+    "roomsAvailable": 150,
+    "roomsSold": 111,
+    "roomTypeOccupancy": {
+      "standard": 74.3,
+      "deluxe": 64.9,
+      "twin": 91.9,
+      "suite": 92.6
+    }
+  },
+  {
+    "date": "2026-05-19",
+    "roomRevenue": 4038,
+    "restaurantRevenue": 1879,
+    "otherRevenue": 1638,
+    "roomsAvailable": 150,
+    "roomsSold": 115,
+    "roomTypeOccupancy": {
+      "standard": 77.1,
+      "deluxe": 64.8,
+      "twin": 97.5,
+      "suite": 78.6
+    }
+  },
+  {
+    "date": "2026-05-20",
+    "roomRevenue": 2385,
+    "restaurantRevenue": 523,
+    "otherRevenue": 2132,
+    "roomsAvailable": 150,
+    "roomsSold": 129,
+    "roomTypeOccupancy": {
+      "standard": 94.3,
+      "deluxe": 65,
+      "twin": 69.1,
+      "suite": 72.2
+    }
+  },
+  {
+    "date": "2026-05-21",
+    "roomRevenue": 6906,
+    "restaurantRevenue": 1047,
+    "otherRevenue": 1575,
+    "roomsAvailable": 150,
+    "roomsSold": 130,
+    "roomTypeOccupancy": {
+      "standard": 62.5,
+      "deluxe": 98.9,
+      "twin": 72.5,
+      "suite": 91.9
+    }
+  },
+  {
+    "date": "2026-05-22",
+    "roomRevenue": 6887,
+    "restaurantRevenue": 790,
+    "otherRevenue": 1081,
+    "roomsAvailable": 150,
+    "roomsSold": 129,
+    "roomTypeOccupancy": {
+      "standard": 69.8,
+      "deluxe": 92.5,
+      "twin": 88.5,
+      "suite": 68
+    }
+  },
+  {
+    "date": "2026-05-23",
+    "roomRevenue": 2791,
+    "restaurantRevenue": 720,
+    "otherRevenue": 1924,
+    "roomsAvailable": 150,
+    "roomsSold": 134,
+    "roomTypeOccupancy": {
+      "standard": 97.7,
+      "deluxe": 96.4,
+      "twin": 62.4,
+      "suite": 69.7
+    }
+  },
+  {
+    "date": "2026-05-24",
+    "roomRevenue": 6178,
+    "restaurantRevenue": 1340,
+    "otherRevenue": 1590,
+    "roomsAvailable": 150,
+    "roomsSold": 118,
+    "roomTypeOccupancy": {
+      "standard": 84.6,
+      "deluxe": 60.7,
+      "twin": 72.2,
+      "suite": 85.7
+    }
+  },
+  {
+    "date": "2026-05-25",
+    "roomRevenue": 3901,
+    "restaurantRevenue": 700,
+    "otherRevenue": 1957,
+    "roomsAvailable": 150,
+    "roomsSold": 127,
+    "roomTypeOccupancy": {
+      "standard": 94.1,
+      "deluxe": 78.7,
+      "twin": 70,
+      "suite": 97.2
+    }
+  },
+  {
+    "date": "2026-05-26",
+    "roomRevenue": 4906,
+    "restaurantRevenue": 1539,
+    "otherRevenue": 1102,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 75.5,
+      "deluxe": 94.4,
+      "twin": 98.9,
+      "suite": 68.5
+    }
+  },
+  {
+    "date": "2026-05-27",
+    "roomRevenue": 3543,
+    "restaurantRevenue": 1285,
+    "otherRevenue": 1664,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 89.1,
+      "deluxe": 79.9,
+      "twin": 87,
+      "suite": 87.7
+    }
+  },
+  {
+    "date": "2026-05-28",
+    "roomRevenue": 6223,
+    "restaurantRevenue": 1635,
+    "otherRevenue": 1461,
+    "roomsAvailable": 150,
+    "roomsSold": 116,
+    "roomTypeOccupancy": {
+      "standard": 90.8,
+      "deluxe": 83.9,
+      "twin": 84.3,
+      "suite": 89.9
+    }
+  },
+  {
+    "date": "2026-05-29",
+    "roomRevenue": 5928,
+    "restaurantRevenue": 965,
+    "otherRevenue": 741,
+    "roomsAvailable": 150,
+    "roomsSold": 132,
+    "roomTypeOccupancy": {
+      "standard": 80.4,
+      "deluxe": 86.3,
+      "twin": 80.4,
+      "suite": 93.4
+    }
+  },
+  {
+    "date": "2026-05-30",
+    "roomRevenue": 5810,
+    "restaurantRevenue": 859,
+    "otherRevenue": 2294,
+    "roomsAvailable": 150,
+    "roomsSold": 123,
+    "roomTypeOccupancy": {
+      "standard": 77.7,
+      "deluxe": 63.2,
+      "twin": 84.7,
+      "suite": 83.4
+    }
+  },
+  {
+    "date": "2026-05-31",
+    "roomRevenue": 2329,
+    "restaurantRevenue": 1654,
+    "otherRevenue": 948,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 90.8,
+      "deluxe": 66.6,
+      "twin": 67.5,
+      "suite": 64.5
+    }
+  },
+  {
     "date": "2026-06-01",
-    "roomRevenue": 109946,
-    "restaurantRevenue": 20643,
-    "otherRevenue": 4517,
+    "roomRevenue": 4069,
+    "restaurantRevenue": 1107,
+    "otherRevenue": 810,
     "roomsAvailable": 150,
     "roomsSold": 123,
     "roomTypeOccupancy": {
@@ -15,9 +2129,9 @@
   },
   {
     "date": "2026-06-02",
-    "roomRevenue": 108152,
-    "restaurantRevenue": 19727,
-    "otherRevenue": 5398,
+    "roomRevenue": 7383,
+    "restaurantRevenue": 1520,
+    "otherRevenue": 811,
     "roomsAvailable": 150,
     "roomsSold": 117,
     "roomTypeOccupancy": {
@@ -29,9 +2143,9 @@
   },
   {
     "date": "2026-06-03",
-    "roomRevenue": 108699,
-    "restaurantRevenue": 17064,
-    "otherRevenue": 3442,
+    "roomRevenue": 4709,
+    "restaurantRevenue": 1504,
+    "otherRevenue": 1794,
     "roomsAvailable": 150,
     "roomsSold": 122,
     "roomTypeOccupancy": {
@@ -43,9 +2157,9 @@
   },
   {
     "date": "2026-06-04",
-    "roomRevenue": 110016,
-    "restaurantRevenue": 14387,
-    "otherRevenue": 3469,
+    "roomRevenue": 7514,
+    "restaurantRevenue": 1040,
+    "otherRevenue": 1114,
     "roomsAvailable": 150,
     "roomsSold": 125,
     "roomTypeOccupancy": {
@@ -57,9 +2171,9 @@
   },
   {
     "date": "2026-06-05",
-    "roomRevenue": 104718,
-    "restaurantRevenue": 18234,
-    "otherRevenue": 3867,
+    "roomRevenue": 2915,
+    "restaurantRevenue": 1848,
+    "otherRevenue": 704,
     "roomsAvailable": 150,
     "roomsSold": 116,
     "roomTypeOccupancy": {
@@ -71,9 +2185,9 @@
   },
   {
     "date": "2026-06-06",
-    "roomRevenue": 119580,
-    "restaurantRevenue": 21746,
-    "otherRevenue": 4083,
+    "roomRevenue": 3521,
+    "restaurantRevenue": 542,
+    "otherRevenue": 966,
     "roomsAvailable": 150,
     "roomsSold": 134,
     "roomTypeOccupancy": {
@@ -85,9 +2199,9 @@
   },
   {
     "date": "2026-06-07",
-    "roomRevenue": 116865,
-    "restaurantRevenue": 19465,
-    "otherRevenue": 2925,
+    "roomRevenue": 3065,
+    "restaurantRevenue": 1152,
+    "otherRevenue": 1706,
     "roomsAvailable": 150,
     "roomsSold": 132,
     "roomTypeOccupancy": {
@@ -99,9 +2213,9 @@
   },
   {
     "date": "2026-06-08",
-    "roomRevenue": 106494,
-    "restaurantRevenue": 18312,
-    "otherRevenue": 3585,
+    "roomRevenue": 7008,
+    "restaurantRevenue": 498,
+    "otherRevenue": 1011,
     "roomsAvailable": 150,
     "roomsSold": 122,
     "roomTypeOccupancy": {
@@ -113,9 +2227,9 @@
   },
   {
     "date": "2026-06-09",
-    "roomRevenue": 103536,
-    "restaurantRevenue": 17204,
-    "otherRevenue": 4453,
+    "roomRevenue": 4218,
+    "restaurantRevenue": 1228,
+    "otherRevenue": 1310,
     "roomsAvailable": 150,
     "roomsSold": 117,
     "roomTypeOccupancy": {
@@ -127,9 +2241,9 @@
   },
   {
     "date": "2026-06-10",
-    "roomRevenue": 106299,
-    "restaurantRevenue": 16491,
-    "otherRevenue": 4420,
+    "roomRevenue": 7797,
+    "restaurantRevenue": 939,
+    "otherRevenue": 2582,
     "roomsAvailable": 150,
     "roomsSold": 121,
     "roomTypeOccupancy": {
@@ -141,9 +2255,9 @@
   },
   {
     "date": "2026-06-11",
-    "roomRevenue": 111246,
-    "restaurantRevenue": 17343,
-    "otherRevenue": 3352,
+    "roomRevenue": 4386,
+    "restaurantRevenue": 840,
+    "otherRevenue": 1811,
     "roomsAvailable": 150,
     "roomsSold": 123,
     "roomTypeOccupancy": {
@@ -155,9 +2269,9 @@
   },
   {
     "date": "2026-06-12",
-    "roomRevenue": 105468,
-    "restaurantRevenue": 15812,
-    "otherRevenue": 5091,
+    "roomRevenue": 6906,
+    "restaurantRevenue": 821,
+    "otherRevenue": 316,
     "roomsAvailable": 150,
     "roomsSold": 117,
     "roomTypeOccupancy": {
@@ -169,9 +2283,9 @@
   },
   {
     "date": "2026-06-13",
-    "roomRevenue": 119784,
-    "restaurantRevenue": 16349,
-    "otherRevenue": 4935,
+    "roomRevenue": 3798,
+    "restaurantRevenue": 1105,
+    "otherRevenue": 1726,
     "roomsAvailable": 150,
     "roomsSold": 135,
     "roomTypeOccupancy": {
@@ -183,9 +2297,9 @@
   },
   {
     "date": "2026-06-14",
-    "roomRevenue": 115478,
-    "restaurantRevenue": 19163,
-    "otherRevenue": 5348,
+    "roomRevenue": 2883,
+    "restaurantRevenue": 1384,
+    "otherRevenue": 847,
     "roomsAvailable": 150,
     "roomsSold": 131,
     "roomTypeOccupancy": {
@@ -197,9 +2311,9 @@
   },
   {
     "date": "2026-06-15",
-    "roomRevenue": 112400,
-    "restaurantRevenue": 19460,
-    "otherRevenue": 4487,
+    "roomRevenue": 2934,
+    "restaurantRevenue": 1684,
+    "otherRevenue": 611,
     "roomsAvailable": 150,
     "roomsSold": 125,
     "roomTypeOccupancy": {
@@ -211,9 +2325,9 @@
   },
   {
     "date": "2026-06-16",
-    "roomRevenue": 106799,
-    "restaurantRevenue": 16085,
-    "otherRevenue": 4684,
+    "roomRevenue": 2694,
+    "restaurantRevenue": 418,
+    "otherRevenue": 1361,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -225,9 +2339,9 @@
   },
   {
     "date": "2026-06-17",
-    "roomRevenue": 108648,
-    "restaurantRevenue": 19786,
-    "otherRevenue": 4587,
+    "roomRevenue": 3370,
+    "restaurantRevenue": 1743,
+    "otherRevenue": 940,
     "roomsAvailable": 150,
     "roomsSold": 119,
     "roomTypeOccupancy": {
@@ -239,9 +2353,9 @@
   },
   {
     "date": "2026-06-18",
-    "roomRevenue": 117411,
-    "restaurantRevenue": 18290,
-    "otherRevenue": 4456,
+    "roomRevenue": 3427,
+    "restaurantRevenue": 430,
+    "otherRevenue": 1201,
     "roomsAvailable": 150,
     "roomsSold": 129,
     "roomTypeOccupancy": {
@@ -253,9 +2367,9 @@
   },
   {
     "date": "2026-06-19",
-    "roomRevenue": 105047,
-    "restaurantRevenue": 18648,
-    "otherRevenue": 4158,
+    "roomRevenue": 2429,
+    "restaurantRevenue": 1758,
+    "otherRevenue": 3082,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -267,9 +2381,9 @@
   },
   {
     "date": "2026-06-20",
-    "roomRevenue": 121183,
-    "restaurantRevenue": 22345,
-    "otherRevenue": 4587,
+    "roomRevenue": 6814,
+    "restaurantRevenue": 760,
+    "otherRevenue": 586,
     "roomsAvailable": 150,
     "roomsSold": 133,
     "roomTypeOccupancy": {
@@ -281,9 +2395,9 @@
   },
   {
     "date": "2026-06-21",
-    "roomRevenue": 120144,
-    "restaurantRevenue": 16564,
-    "otherRevenue": 3890,
+    "roomRevenue": 7926,
+    "restaurantRevenue": 823,
+    "otherRevenue": 1117,
     "roomsAvailable": 150,
     "roomsSold": 137,
     "roomTypeOccupancy": {
@@ -295,9 +2409,9 @@
   },
   {
     "date": "2026-06-22",
-    "roomRevenue": 111236,
-    "restaurantRevenue": 15262,
-    "otherRevenue": 5379,
+    "roomRevenue": 2893,
+    "restaurantRevenue": 608,
+    "otherRevenue": 2179,
     "roomsAvailable": 150,
     "roomsSold": 130,
     "roomTypeOccupancy": {
@@ -309,9 +2423,9 @@
   },
   {
     "date": "2026-06-23",
-    "roomRevenue": 105319,
-    "restaurantRevenue": 16090,
-    "otherRevenue": 2443,
+    "roomRevenue": 6823,
+    "restaurantRevenue": 1601,
+    "otherRevenue": 1837,
     "roomsAvailable": 150,
     "roomsSold": 121,
     "roomTypeOccupancy": {
@@ -323,9 +2437,9 @@
   },
   {
     "date": "2026-06-24",
-    "roomRevenue": 102656,
-    "restaurantRevenue": 16363,
-    "otherRevenue": 4434,
+    "roomRevenue": 7856,
+    "restaurantRevenue": 1384,
+    "otherRevenue": 1428,
     "roomsAvailable": 150,
     "roomsSold": 114,
     "roomTypeOccupancy": {
@@ -337,9 +2451,9 @@
   },
   {
     "date": "2026-06-25",
-    "roomRevenue": 104939,
-    "restaurantRevenue": 19903,
-    "otherRevenue": 3168,
+    "roomRevenue": 4666,
+    "restaurantRevenue": 411,
+    "otherRevenue": 563,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -351,9 +2465,9 @@
   },
   {
     "date": "2026-06-26",
-    "roomRevenue": 108316,
-    "restaurantRevenue": 20285,
-    "otherRevenue": 5229,
+    "roomRevenue": 3685,
+    "restaurantRevenue": 729,
+    "otherRevenue": 1491,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -365,9 +2479,9 @@
   },
   {
     "date": "2026-06-27",
-    "roomRevenue": 116709,
-    "restaurantRevenue": 16384,
-    "otherRevenue": 3547,
+    "roomRevenue": 6997,
+    "restaurantRevenue": 831,
+    "otherRevenue": 1037,
     "roomsAvailable": 150,
     "roomsSold": 133,
     "roomTypeOccupancy": {
@@ -379,9 +2493,9 @@
   },
   {
     "date": "2026-06-28",
-    "roomRevenue": 112143,
-    "restaurantRevenue": 15129,
-    "otherRevenue": 3934,
+    "roomRevenue": 4873,
+    "restaurantRevenue": 1842,
+    "otherRevenue": 845,
     "roomsAvailable": 150,
     "roomsSold": 129,
     "roomTypeOccupancy": {
@@ -393,9 +2507,9 @@
   },
   {
     "date": "2026-06-29",
-    "roomRevenue": 101992,
-    "restaurantRevenue": 15083,
-    "otherRevenue": 4393,
+    "roomRevenue": 6949,
+    "restaurantRevenue": 1851,
+    "otherRevenue": 2636,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -407,9 +2521,9 @@
   },
   {
     "date": "2026-06-30",
-    "roomRevenue": 101469,
-    "restaurantRevenue": 18346,
-    "otherRevenue": 4463,
+    "roomRevenue": 4758,
+    "restaurantRevenue": 1330,
+    "otherRevenue": 1414,
     "roomsAvailable": 150,
     "roomsSold": 113,
     "roomTypeOccupancy": {
@@ -421,9 +2535,9 @@
   },
   {
     "date": "2026-07-01",
-    "roomRevenue": 103897,
-    "restaurantRevenue": 13810,
-    "otherRevenue": 2392,
+    "roomRevenue": 5725,
+    "restaurantRevenue": 464,
+    "otherRevenue": 1624,
     "roomsAvailable": 150,
     "roomsSold": 117,
     "roomTypeOccupancy": {
@@ -435,9 +2549,9 @@
   },
   {
     "date": "2026-07-02",
-    "roomRevenue": 109089,
-    "restaurantRevenue": 14684,
-    "otherRevenue": 3009,
+    "roomRevenue": 5252,
+    "restaurantRevenue": 1407,
+    "otherRevenue": 1558,
     "roomsAvailable": 150,
     "roomsSold": 124,
     "roomTypeOccupancy": {
@@ -449,9 +2563,9 @@
   },
   {
     "date": "2026-07-03",
-    "roomRevenue": 107175,
-    "restaurantRevenue": 15077,
-    "otherRevenue": 4712,
+    "roomRevenue": 4621,
+    "restaurantRevenue": 1088,
+    "otherRevenue": 807,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -463,9 +2577,9 @@
   },
   {
     "date": "2026-07-04",
-    "roomRevenue": 113601,
-    "restaurantRevenue": 18598,
-    "otherRevenue": 5001,
+    "roomRevenue": 7853,
+    "restaurantRevenue": 1025,
+    "otherRevenue": 1236,
     "roomsAvailable": 150,
     "roomsSold": 127,
     "roomTypeOccupancy": {
@@ -477,9 +2591,9 @@
   },
   {
     "date": "2026-07-05",
-    "roomRevenue": 112663,
-    "restaurantRevenue": 21117,
-    "otherRevenue": 2459,
+    "roomRevenue": 8335,
+    "restaurantRevenue": 452,
+    "otherRevenue": 1728,
     "roomsAvailable": 150,
     "roomsSold": 126,
     "roomTypeOccupancy": {
@@ -491,9 +2605,9 @@
   },
   {
     "date": "2026-07-06",
-    "roomRevenue": 105130,
-    "restaurantRevenue": 18922,
-    "otherRevenue": 2138,
+    "roomRevenue": 4675,
+    "restaurantRevenue": 624,
+    "otherRevenue": 1358,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -505,9 +2619,9 @@
   },
   {
     "date": "2026-07-07",
-    "roomRevenue": 111769,
-    "restaurantRevenue": 16462,
-    "otherRevenue": 3138,
+    "roomRevenue": 4084,
+    "restaurantRevenue": 814,
+    "otherRevenue": 1030,
     "roomsAvailable": 150,
     "roomsSold": 125,
     "roomTypeOccupancy": {
@@ -519,9 +2633,9 @@
   },
   {
     "date": "2026-07-08",
-    "roomRevenue": 107448,
-    "restaurantRevenue": 17877,
-    "otherRevenue": 4920,
+    "roomRevenue": 3122,
+    "restaurantRevenue": 653,
+    "otherRevenue": 977,
     "roomsAvailable": 150,
     "roomsSold": 122,
     "roomTypeOccupancy": {
@@ -533,9 +2647,9 @@
   },
   {
     "date": "2026-07-09",
-    "roomRevenue": 106839,
-    "restaurantRevenue": 16960,
-    "otherRevenue": 2468,
+    "roomRevenue": 3411,
+    "restaurantRevenue": 409,
+    "otherRevenue": 1741,
     "roomsAvailable": 150,
     "roomsSold": 119,
     "roomTypeOccupancy": {
@@ -547,9 +2661,9 @@
   },
   {
     "date": "2026-07-10",
-    "roomRevenue": 104927,
-    "restaurantRevenue": 19269,
-    "otherRevenue": 2643,
+    "roomRevenue": 4174,
+    "restaurantRevenue": 853,
+    "otherRevenue": 1576,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -561,9 +2675,9 @@
   },
   {
     "date": "2026-07-11",
-    "roomRevenue": 116006,
-    "restaurantRevenue": 19887,
-    "otherRevenue": 3419,
+    "roomRevenue": 6375,
+    "restaurantRevenue": 1724,
+    "otherRevenue": 2105,
     "roomsAvailable": 150,
     "roomsSold": 133,
     "roomTypeOccupancy": {
@@ -575,9 +2689,9 @@
   },
   {
     "date": "2026-07-12",
-    "roomRevenue": 116891,
-    "restaurantRevenue": 20683,
-    "otherRevenue": 4938,
+    "roomRevenue": 2728,
+    "restaurantRevenue": 421,
+    "otherRevenue": 2425,
     "roomsAvailable": 150,
     "roomsSold": 132,
     "roomTypeOccupancy": {
@@ -589,9 +2703,9 @@
   },
   {
     "date": "2026-07-13",
-    "roomRevenue": 103357,
-    "restaurantRevenue": 13722,
-    "otherRevenue": 2621,
+    "roomRevenue": 3037,
+    "restaurantRevenue": 673,
+    "otherRevenue": 1696,
     "roomsAvailable": 150,
     "roomsSold": 117,
     "roomTypeOccupancy": {
@@ -603,9 +2717,9 @@
   },
   {
     "date": "2026-07-14",
-    "roomRevenue": 105335,
-    "restaurantRevenue": 19234,
-    "otherRevenue": 2410,
+    "roomRevenue": 5686,
+    "restaurantRevenue": 594,
+    "otherRevenue": 1895,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -617,9 +2731,9 @@
   },
   {
     "date": "2026-07-15",
-    "roomRevenue": 103735,
-    "restaurantRevenue": 16037,
-    "otherRevenue": 3919,
+    "roomRevenue": 2723,
+    "restaurantRevenue": 1590,
+    "otherRevenue": 1610,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -631,9 +2745,9 @@
   },
   {
     "date": "2026-07-16",
-    "roomRevenue": 100116,
-    "restaurantRevenue": 15485,
-    "otherRevenue": 4863,
+    "roomRevenue": 4526,
+    "restaurantRevenue": 964,
+    "otherRevenue": 2034,
     "roomsAvailable": 150,
     "roomsSold": 117,
     "roomTypeOccupancy": {
@@ -645,9 +2759,9 @@
   },
   {
     "date": "2026-07-17",
-    "roomRevenue": 108657,
-    "restaurantRevenue": 19545,
-    "otherRevenue": 4999,
+    "roomRevenue": 6911,
+    "restaurantRevenue": 1501,
+    "otherRevenue": 589,
     "roomsAvailable": 150,
     "roomsSold": 121,
     "roomTypeOccupancy": {
@@ -659,9 +2773,9 @@
   },
   {
     "date": "2026-07-18",
-    "roomRevenue": 116246,
-    "restaurantRevenue": 15308,
-    "otherRevenue": 3453,
+    "roomRevenue": 7395,
+    "restaurantRevenue": 714,
+    "otherRevenue": 1407,
     "roomsAvailable": 150,
     "roomsSold": 128,
     "roomTypeOccupancy": {
@@ -673,9 +2787,9 @@
   },
   {
     "date": "2026-07-19",
-    "roomRevenue": 113189,
-    "restaurantRevenue": 19169,
-    "otherRevenue": 2813,
+    "roomRevenue": 6004,
+    "restaurantRevenue": 1157,
+    "otherRevenue": 1480,
     "roomsAvailable": 150,
     "roomsSold": 126,
     "roomTypeOccupancy": {
@@ -687,9 +2801,9 @@
   },
   {
     "date": "2026-07-20",
-    "roomRevenue": 111534,
-    "restaurantRevenue": 15979,
-    "otherRevenue": 3219,
+    "roomRevenue": 7395,
+    "restaurantRevenue": 608,
+    "otherRevenue": 1105,
     "roomsAvailable": 150,
     "roomsSold": 123,
     "roomTypeOccupancy": {
@@ -701,9 +2815,9 @@
   },
   {
     "date": "2026-07-21",
-    "roomRevenue": 108945,
-    "restaurantRevenue": 16148,
-    "otherRevenue": 4142,
+    "roomRevenue": 2575,
+    "restaurantRevenue": 514,
+    "otherRevenue": 3733,
     "roomsAvailable": 150,
     "roomsSold": 121,
     "roomTypeOccupancy": {
@@ -715,9 +2829,9 @@
   },
   {
     "date": "2026-07-22",
-    "roomRevenue": 104511,
-    "restaurantRevenue": 16389,
-    "otherRevenue": 3573,
+    "roomRevenue": 6976,
+    "restaurantRevenue": 1653,
+    "otherRevenue": 3222,
     "roomsAvailable": 150,
     "roomsSold": 123,
     "roomTypeOccupancy": {
@@ -729,9 +2843,9 @@
   },
   {
     "date": "2026-07-23",
-    "roomRevenue": 105148,
-    "restaurantRevenue": 18166,
-    "otherRevenue": 2254,
+    "roomRevenue": 5642,
+    "restaurantRevenue": 1473,
+    "otherRevenue": 1290,
     "roomsAvailable": 150,
     "roomsSold": 117,
     "roomTypeOccupancy": {
@@ -743,9 +2857,9 @@
   },
   {
     "date": "2026-07-24",
-    "roomRevenue": 101554,
-    "restaurantRevenue": 18706,
-    "otherRevenue": 2308,
+    "roomRevenue": 5889,
+    "restaurantRevenue": 1581,
+    "otherRevenue": 1006,
     "roomsAvailable": 150,
     "roomsSold": 115,
     "roomTypeOccupancy": {
@@ -757,9 +2871,9 @@
   },
   {
     "date": "2026-07-25",
-    "roomRevenue": 118706,
-    "restaurantRevenue": 18644,
-    "otherRevenue": 4342,
+    "roomRevenue": 8247,
+    "restaurantRevenue": 1873,
+    "otherRevenue": 1614,
     "roomsAvailable": 150,
     "roomsSold": 127,
     "roomTypeOccupancy": {
@@ -771,9 +2885,9 @@
   },
   {
     "date": "2026-07-26",
-    "roomRevenue": 114112,
-    "restaurantRevenue": 21495,
-    "otherRevenue": 4990,
+    "roomRevenue": 3227,
+    "restaurantRevenue": 755,
+    "otherRevenue": 2353,
     "roomsAvailable": 150,
     "roomsSold": 129,
     "roomTypeOccupancy": {
@@ -785,9 +2899,9 @@
   },
   {
     "date": "2026-07-27",
-    "roomRevenue": 105426,
-    "restaurantRevenue": 16829,
-    "otherRevenue": 3565,
+    "roomRevenue": 5695,
+    "restaurantRevenue": 1775,
+    "otherRevenue": 1347,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -799,9 +2913,9 @@
   },
   {
     "date": "2026-07-28",
-    "roomRevenue": 110480,
-    "restaurantRevenue": 16580,
-    "otherRevenue": 2432,
+    "roomRevenue": 6919,
+    "restaurantRevenue": 1609,
+    "otherRevenue": 2576,
     "roomsAvailable": 150,
     "roomsSold": 121,
     "roomTypeOccupancy": {
@@ -813,9 +2927,9 @@
   },
   {
     "date": "2026-07-29",
-    "roomRevenue": 106725,
-    "restaurantRevenue": 18153,
-    "otherRevenue": 2748,
+    "roomRevenue": 3036,
+    "restaurantRevenue": 983,
+    "otherRevenue": 1468,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -827,9 +2941,9 @@
   },
   {
     "date": "2026-07-30",
-    "roomRevenue": 105395,
-    "restaurantRevenue": 18391,
-    "otherRevenue": 3298,
+    "roomRevenue": 5461,
+    "restaurantRevenue": 1124,
+    "otherRevenue": 984,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -841,9 +2955,9 @@
   },
   {
     "date": "2026-07-31",
-    "roomRevenue": 107756,
-    "restaurantRevenue": 18951,
-    "otherRevenue": 4366,
+    "roomRevenue": 4765,
+    "restaurantRevenue": 1590,
+    "otherRevenue": 2644,
     "roomsAvailable": 150,
     "roomsSold": 123,
     "roomTypeOccupancy": {
@@ -855,9 +2969,9 @@
   },
   {
     "date": "2026-08-01",
-    "roomRevenue": 119876,
-    "restaurantRevenue": 18931,
-    "otherRevenue": 5692,
+    "roomRevenue": 6112,
+    "restaurantRevenue": 1834,
+    "otherRevenue": 1597,
     "roomsAvailable": 150,
     "roomsSold": 133,
     "roomTypeOccupancy": {
@@ -869,9 +2983,9 @@
   },
   {
     "date": "2026-08-02",
-    "roomRevenue": 119956,
-    "restaurantRevenue": 17850,
-    "otherRevenue": 4218,
+    "roomRevenue": 6250,
+    "restaurantRevenue": 1336,
+    "otherRevenue": 2513,
     "roomsAvailable": 150,
     "roomsSold": 135,
     "roomTypeOccupancy": {
@@ -883,9 +2997,9 @@
   },
   {
     "date": "2026-08-03",
-    "roomRevenue": 110391,
-    "restaurantRevenue": 17049,
-    "otherRevenue": 2436,
+    "roomRevenue": 4272,
+    "restaurantRevenue": 682,
+    "otherRevenue": 1459,
     "roomsAvailable": 150,
     "roomsSold": 122,
     "roomTypeOccupancy": {
@@ -897,9 +3011,9 @@
   },
   {
     "date": "2026-08-04",
-    "roomRevenue": 107750,
-    "restaurantRevenue": 14209,
-    "otherRevenue": 4197,
+    "roomRevenue": 3103,
+    "restaurantRevenue": 1368,
+    "otherRevenue": 882,
     "roomsAvailable": 150,
     "roomsSold": 117,
     "roomTypeOccupancy": {
@@ -911,9 +3025,9 @@
   },
   {
     "date": "2026-08-05",
-    "roomRevenue": 105413,
-    "restaurantRevenue": 19245,
-    "otherRevenue": 3734,
+    "roomRevenue": 4882,
+    "restaurantRevenue": 1731,
+    "otherRevenue": 2142,
     "roomsAvailable": 150,
     "roomsSold": 119,
     "roomTypeOccupancy": {
@@ -925,9 +3039,9 @@
   },
   {
     "date": "2026-08-06",
-    "roomRevenue": 105942,
-    "restaurantRevenue": 19683,
-    "otherRevenue": 4946,
+    "roomRevenue": 7020,
+    "restaurantRevenue": 1396,
+    "otherRevenue": 1344,
     "roomsAvailable": 150,
     "roomsSold": 122,
     "roomTypeOccupancy": {
@@ -939,9 +3053,9 @@
   },
   {
     "date": "2026-08-07",
-    "roomRevenue": 106349,
-    "restaurantRevenue": 14030,
-    "otherRevenue": 2141,
+    "roomRevenue": 4203,
+    "restaurantRevenue": 517,
+    "otherRevenue": 1700,
     "roomsAvailable": 150,
     "roomsSold": 121,
     "roomTypeOccupancy": {
@@ -953,9 +3067,9 @@
   },
   {
     "date": "2026-08-08",
-    "roomRevenue": 114210,
-    "restaurantRevenue": 15506,
-    "otherRevenue": 2521,
+    "roomRevenue": 3798,
+    "restaurantRevenue": 1524,
+    "otherRevenue": 1612,
     "roomsAvailable": 150,
     "roomsSold": 128,
     "roomTypeOccupancy": {
@@ -967,9 +3081,9 @@
   },
   {
     "date": "2026-08-09",
-    "roomRevenue": 119432,
-    "restaurantRevenue": 22683,
-    "otherRevenue": 5297,
+    "roomRevenue": 2379,
+    "restaurantRevenue": 1096,
+    "otherRevenue": 1057,
     "roomsAvailable": 150,
     "roomsSold": 134,
     "roomTypeOccupancy": {
@@ -981,9 +3095,9 @@
   },
   {
     "date": "2026-08-10",
-    "roomRevenue": 110236,
-    "restaurantRevenue": 15222,
-    "otherRevenue": 4524,
+    "roomRevenue": 3794,
+    "restaurantRevenue": 1083,
+    "otherRevenue": 548,
     "roomsAvailable": 150,
     "roomsSold": 125,
     "roomTypeOccupancy": {
@@ -995,9 +3109,9 @@
   },
   {
     "date": "2026-08-11",
-    "roomRevenue": 112507,
-    "restaurantRevenue": 18948,
-    "otherRevenue": 5075,
+    "roomRevenue": 5883,
+    "restaurantRevenue": 1327,
+    "otherRevenue": 1727,
     "roomsAvailable": 150,
     "roomsSold": 126,
     "roomTypeOccupancy": {
@@ -1009,9 +3123,9 @@
   },
   {
     "date": "2026-08-12",
-    "roomRevenue": 103507,
-    "restaurantRevenue": 15198,
-    "otherRevenue": 3630,
+    "roomRevenue": 4747,
+    "restaurantRevenue": 1637,
+    "otherRevenue": 209,
     "roomsAvailable": 150,
     "roomsSold": 122,
     "roomTypeOccupancy": {
@@ -1023,9 +3137,9 @@
   },
   {
     "date": "2026-08-13",
-    "roomRevenue": 102374,
-    "restaurantRevenue": 13346,
-    "otherRevenue": 3242,
+    "roomRevenue": 2592,
+    "restaurantRevenue": 1243,
+    "otherRevenue": 1426,
     "roomsAvailable": 150,
     "roomsSold": 115,
     "roomTypeOccupancy": {
@@ -1037,9 +3151,9 @@
   },
   {
     "date": "2026-08-14",
-    "roomRevenue": 107550,
-    "restaurantRevenue": 15111,
-    "otherRevenue": 3714,
+    "roomRevenue": 8126,
+    "restaurantRevenue": 683,
+    "otherRevenue": 1034,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -1051,9 +3165,9 @@
   },
   {
     "date": "2026-08-15",
-    "roomRevenue": 115678,
-    "restaurantRevenue": 18105,
-    "otherRevenue": 4494,
+    "roomRevenue": 4472,
+    "restaurantRevenue": 873,
+    "otherRevenue": 1215,
     "roomsAvailable": 150,
     "roomsSold": 127,
     "roomTypeOccupancy": {
@@ -1065,9 +3179,9 @@
   },
   {
     "date": "2026-08-16",
-    "roomRevenue": 111751,
-    "restaurantRevenue": 16623,
-    "otherRevenue": 4696,
+    "roomRevenue": 7135,
+    "restaurantRevenue": 713,
+    "otherRevenue": 1821,
     "roomsAvailable": 150,
     "roomsSold": 123,
     "roomTypeOccupancy": {
@@ -1079,9 +3193,9 @@
   },
   {
     "date": "2026-08-17",
-    "roomRevenue": 112337,
-    "restaurantRevenue": 17080,
-    "otherRevenue": 4532,
+    "roomRevenue": 4761,
+    "restaurantRevenue": 796,
+    "otherRevenue": 1264,
     "roomsAvailable": 150,
     "roomsSold": 125,
     "roomTypeOccupancy": {
@@ -1093,9 +3207,9 @@
   },
   {
     "date": "2026-08-18",
-    "roomRevenue": 104331,
-    "restaurantRevenue": 14499,
-    "otherRevenue": 4766,
+    "roomRevenue": 4520,
+    "restaurantRevenue": 1612,
+    "otherRevenue": 426,
     "roomsAvailable": 150,
     "roomsSold": 119,
     "roomTypeOccupancy": {
@@ -1107,9 +3221,9 @@
   },
   {
     "date": "2026-08-19",
-    "roomRevenue": 105574,
-    "restaurantRevenue": 18291,
-    "otherRevenue": 3388,
+    "roomRevenue": 7312,
+    "restaurantRevenue": 1295,
+    "otherRevenue": 1610,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -1121,9 +3235,9 @@
   },
   {
     "date": "2026-08-20",
-    "roomRevenue": 111053,
-    "restaurantRevenue": 20325,
-    "otherRevenue": 2504,
+    "roomRevenue": 4610,
+    "restaurantRevenue": 1737,
+    "otherRevenue": 1501,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -1135,9 +3249,9 @@
   },
   {
     "date": "2026-08-21",
-    "roomRevenue": 106357,
-    "restaurantRevenue": 14274,
-    "otherRevenue": 4846,
+    "roomRevenue": 2829,
+    "restaurantRevenue": 1857,
+    "otherRevenue": 1128,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -1149,9 +3263,9 @@
   },
   {
     "date": "2026-08-22",
-    "roomRevenue": 117841,
-    "restaurantRevenue": 21666,
-    "otherRevenue": 2579,
+    "roomRevenue": 7482,
+    "restaurantRevenue": 1528,
+    "otherRevenue": 699,
     "roomsAvailable": 150,
     "roomsSold": 132,
     "roomTypeOccupancy": {
@@ -1163,9 +3277,9 @@
   },
   {
     "date": "2026-08-23",
-    "roomRevenue": 121880,
-    "restaurantRevenue": 18702,
-    "otherRevenue": 3795,
+    "roomRevenue": 3417,
+    "restaurantRevenue": 855,
+    "otherRevenue": 1958,
     "roomsAvailable": 150,
     "roomsSold": 134,
     "roomTypeOccupancy": {
@@ -1177,9 +3291,9 @@
   },
   {
     "date": "2026-08-24",
-    "roomRevenue": 101236,
-    "restaurantRevenue": 18448,
-    "otherRevenue": 2886,
+    "roomRevenue": 6576,
+    "restaurantRevenue": 970,
+    "otherRevenue": 4166,
     "roomsAvailable": 150,
     "roomsSold": 113,
     "roomTypeOccupancy": {
@@ -1191,9 +3305,9 @@
   },
   {
     "date": "2026-08-25",
-    "roomRevenue": 110947,
-    "restaurantRevenue": 17816,
-    "otherRevenue": 3484,
+    "roomRevenue": 6360,
+    "restaurantRevenue": 904,
+    "otherRevenue": 1989,
     "roomsAvailable": 150,
     "roomsSold": 125,
     "roomTypeOccupancy": {
@@ -1205,9 +3319,9 @@
   },
   {
     "date": "2026-08-26",
-    "roomRevenue": 108169,
-    "restaurantRevenue": 17665,
-    "otherRevenue": 2825,
+    "roomRevenue": 6346,
+    "restaurantRevenue": 1549,
+    "otherRevenue": 1475,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -1219,9 +3333,9 @@
   },
   {
     "date": "2026-08-27",
-    "roomRevenue": 111785,
-    "restaurantRevenue": 15988,
-    "otherRevenue": 4975,
+    "roomRevenue": 2634,
+    "restaurantRevenue": 596,
+    "otherRevenue": 1473,
     "roomsAvailable": 150,
     "roomsSold": 126,
     "roomTypeOccupancy": {
@@ -1233,9 +3347,9 @@
   },
   {
     "date": "2026-08-28",
-    "roomRevenue": 106653,
-    "restaurantRevenue": 15295,
-    "otherRevenue": 2202,
+    "roomRevenue": 3235,
+    "restaurantRevenue": 541,
+    "otherRevenue": 402,
     "roomsAvailable": 150,
     "roomsSold": 123,
     "roomTypeOccupancy": {
@@ -1247,9 +3361,9 @@
   },
   {
     "date": "2026-08-29",
-    "roomRevenue": 112127,
-    "restaurantRevenue": 14871,
-    "otherRevenue": 3082,
+    "roomRevenue": 8239,
+    "restaurantRevenue": 1560,
+    "otherRevenue": 1886,
     "roomsAvailable": 150,
     "roomsSold": 127,
     "roomTypeOccupancy": {
@@ -1261,9 +3375,9 @@
   },
   {
     "date": "2026-08-30",
-    "roomRevenue": 112566,
-    "restaurantRevenue": 19879,
-    "otherRevenue": 2653,
+    "roomRevenue": 7272,
+    "restaurantRevenue": 1568,
+    "otherRevenue": 942,
     "roomsAvailable": 150,
     "roomsSold": 130,
     "roomTypeOccupancy": {
@@ -1275,9 +3389,9 @@
   },
   {
     "date": "2026-08-31",
-    "roomRevenue": 99850,
-    "restaurantRevenue": 17209,
-    "otherRevenue": 3955,
+    "roomRevenue": 4529,
+    "restaurantRevenue": 1430,
+    "otherRevenue": 418,
     "roomsAvailable": 150,
     "roomsSold": 113,
     "roomTypeOccupancy": {
@@ -1289,9 +3403,9 @@
   },
   {
     "date": "2026-09-01",
-    "roomRevenue": 106810,
-    "restaurantRevenue": 17237,
-    "otherRevenue": 2697,
+    "roomRevenue": 7086,
+    "restaurantRevenue": 767,
+    "otherRevenue": 1060,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -1303,9 +3417,9 @@
   },
   {
     "date": "2026-09-02",
-    "roomRevenue": 109801,
-    "restaurantRevenue": 15695,
-    "otherRevenue": 5015,
+    "roomRevenue": 3286,
+    "restaurantRevenue": 1237,
+    "otherRevenue": 1481,
     "roomsAvailable": 150,
     "roomsSold": 126,
     "roomTypeOccupancy": {
@@ -1317,9 +3431,9 @@
   },
   {
     "date": "2026-09-03",
-    "roomRevenue": 109876,
-    "restaurantRevenue": 18394,
-    "otherRevenue": 5306,
+    "roomRevenue": 8074,
+    "restaurantRevenue": 672,
+    "otherRevenue": 1090,
     "roomsAvailable": 150,
     "roomsSold": 120,
     "roomTypeOccupancy": {
@@ -1331,9 +3445,9 @@
   },
   {
     "date": "2026-09-04",
-    "roomRevenue": 107223,
-    "restaurantRevenue": 18183,
-    "otherRevenue": 4224,
+    "roomRevenue": 2707,
+    "restaurantRevenue": 535,
+    "otherRevenue": 1550,
     "roomsAvailable": 150,
     "roomsSold": 123,
     "roomTypeOccupancy": {
@@ -1345,9 +3459,9 @@
   },
   {
     "date": "2026-09-05",
-    "roomRevenue": 114840,
-    "restaurantRevenue": 16316,
-    "otherRevenue": 4690,
+    "roomRevenue": 4719,
+    "restaurantRevenue": 1386,
+    "otherRevenue": 2281,
     "roomsAvailable": 150,
     "roomsSold": 131,
     "roomTypeOccupancy": {
@@ -1359,9 +3473,9 @@
   },
   {
     "date": "2026-09-06",
-    "roomRevenue": 115175,
-    "restaurantRevenue": 19415,
-    "otherRevenue": 4227,
+    "roomRevenue": 5482,
+    "restaurantRevenue": 1239,
+    "otherRevenue": 808,
     "roomsAvailable": 150,
     "roomsSold": 128,
     "roomTypeOccupancy": {
@@ -1373,9 +3487,9 @@
   },
   {
     "date": "2026-09-07",
-    "roomRevenue": 114179,
-    "restaurantRevenue": 19009,
-    "otherRevenue": 3466,
+    "roomRevenue": 2909,
+    "restaurantRevenue": 816,
+    "otherRevenue": 2829,
     "roomsAvailable": 150,
     "roomsSold": 119,
     "roomTypeOccupancy": {
@@ -1387,9 +3501,9 @@
   },
   {
     "date": "2026-09-08",
-    "roomRevenue": 109571,
-    "restaurantRevenue": 18896,
-    "otherRevenue": 4820,
+    "roomRevenue": 2683,
+    "restaurantRevenue": 479,
+    "otherRevenue": 1373,
     "roomsAvailable": 150,
     "roomsSold": 118,
     "roomTypeOccupancy": {
@@ -1401,9 +3515,9 @@
   },
   {
     "date": "2026-09-09",
-    "roomRevenue": 106287,
-    "restaurantRevenue": 18180,
-    "otherRevenue": 4594,
+    "roomRevenue": 4059,
+    "restaurantRevenue": 1233,
+    "otherRevenue": 1065,
     "roomsAvailable": 150,
     "roomsSold": 116,
     "roomTypeOccupancy": {
@@ -1415,9 +3529,9 @@
   },
   {
     "date": "2026-09-10",
-    "roomRevenue": 107946,
-    "restaurantRevenue": 19456,
-    "otherRevenue": 2936,
+    "roomRevenue": 6299,
+    "restaurantRevenue": 1538,
+    "otherRevenue": 1205,
     "roomsAvailable": 150,
     "roomsSold": 112,
     "roomTypeOccupancy": {
@@ -1429,9 +3543,9 @@
   },
   {
     "date": "2026-09-11",
-    "roomRevenue": 116037,
-    "restaurantRevenue": 14548,
-    "otherRevenue": 4197,
+    "roomRevenue": 4074,
+    "restaurantRevenue": 1781,
+    "otherRevenue": 1805,
     "roomsAvailable": 150,
     "roomsSold": 130,
     "roomTypeOccupancy": {
@@ -1443,9 +3557,9 @@
   },
   {
     "date": "2026-09-12",
-    "roomRevenue": 116378,
-    "restaurantRevenue": 15764,
-    "otherRevenue": 5387,
+    "roomRevenue": 4457,
+    "restaurantRevenue": 939,
+    "otherRevenue": 1268,
     "roomsAvailable": 150,
     "roomsSold": 128,
     "roomTypeOccupancy": {
@@ -1457,9 +3571,9 @@
   },
   {
     "date": "2026-09-13",
-    "roomRevenue": 102070,
-    "restaurantRevenue": 17720,
-    "otherRevenue": 2748,
+    "roomRevenue": 7821,
+    "restaurantRevenue": 1559,
+    "otherRevenue": 1194,
     "roomsAvailable": 150,
     "roomsSold": 125,
     "roomTypeOccupancy": {
@@ -1471,9 +3585,9 @@
   },
   {
     "date": "2026-09-14",
-    "roomRevenue": 117389,
-    "restaurantRevenue": 14841,
-    "otherRevenue": 3876,
+    "roomRevenue": 7342,
+    "restaurantRevenue": 739,
+    "otherRevenue": 1475,
     "roomsAvailable": 150,
     "roomsSold": 115,
     "roomTypeOccupancy": {
@@ -1485,9 +3599,9 @@
   },
   {
     "date": "2026-09-15",
-    "roomRevenue": 113925,
-    "restaurantRevenue": 15686,
-    "otherRevenue": 3849,
+    "roomRevenue": 4740,
+    "restaurantRevenue": 1849,
+    "otherRevenue": 575,
     "roomsAvailable": 150,
     "roomsSold": 126,
     "roomTypeOccupancy": {
@@ -1499,9 +3613,9 @@
   },
   {
     "date": "2026-09-16",
-    "roomRevenue": 106183,
-    "restaurantRevenue": 19000,
-    "otherRevenue": 4232,
+    "roomRevenue": 2556,
+    "restaurantRevenue": 1416,
+    "otherRevenue": 810,
     "roomsAvailable": 150,
     "roomsSold": 122,
     "roomTypeOccupancy": {
@@ -1513,9 +3627,9 @@
   },
   {
     "date": "2026-09-17",
-    "roomRevenue": 111682,
-    "restaurantRevenue": 19959,
-    "otherRevenue": 3040,
+    "roomRevenue": 4730,
+    "restaurantRevenue": 1427,
+    "otherRevenue": 1067,
     "roomsAvailable": 150,
     "roomsSold": 111,
     "roomTypeOccupancy": {
@@ -1527,9 +3641,9 @@
   },
   {
     "date": "2026-09-18",
-    "roomRevenue": 102469,
-    "restaurantRevenue": 17880,
-    "otherRevenue": 2411,
+    "roomRevenue": 2832,
+    "restaurantRevenue": 808,
+    "otherRevenue": 2025,
     "roomsAvailable": 150,
     "roomsSold": 110,
     "roomTypeOccupancy": {
@@ -1541,9 +3655,9 @@
   },
   {
     "date": "2026-09-19",
-    "roomRevenue": 108949,
-    "restaurantRevenue": 18020,
-    "otherRevenue": 5276,
+    "roomRevenue": 6052,
+    "restaurantRevenue": 1063,
+    "otherRevenue": 1196,
     "roomsAvailable": 150,
     "roomsSold": 128,
     "roomTypeOccupancy": {
@@ -1551,6 +3665,160 @@
       "deluxe": 88.4,
       "twin": 72,
       "suite": 67
+    }
+  },
+  {
+    "date": "2026-09-20",
+    "roomRevenue": 6450,
+    "restaurantRevenue": 1450,
+    "otherRevenue": 747,
+    "roomsAvailable": 150,
+    "roomsSold": 127,
+    "roomTypeOccupancy": {
+      "standard": 94.6,
+      "deluxe": 63.2,
+      "twin": 66.7,
+      "suite": 89.5
+    }
+  },
+  {
+    "date": "2026-09-21",
+    "roomRevenue": 7052,
+    "restaurantRevenue": 1166,
+    "otherRevenue": 1951,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 84.5,
+      "deluxe": 68.5,
+      "twin": 78.2,
+      "suite": 72
+    }
+  },
+  {
+    "date": "2026-09-22",
+    "roomRevenue": 3030,
+    "restaurantRevenue": 1685,
+    "otherRevenue": 728,
+    "roomsAvailable": 150,
+    "roomsSold": 117,
+    "roomTypeOccupancy": {
+      "standard": 72.5,
+      "deluxe": 78.4,
+      "twin": 73.1,
+      "suite": 89.9
+    }
+  },
+  {
+    "date": "2026-09-23",
+    "roomRevenue": 4629,
+    "restaurantRevenue": 1836,
+    "otherRevenue": 2211,
+    "roomsAvailable": 150,
+    "roomsSold": 132,
+    "roomTypeOccupancy": {
+      "standard": 84.2,
+      "deluxe": 80.2,
+      "twin": 87.7,
+      "suite": 85.3
+    }
+  },
+  {
+    "date": "2026-09-24",
+    "roomRevenue": 4065,
+    "restaurantRevenue": 855,
+    "otherRevenue": 1721,
+    "roomsAvailable": 150,
+    "roomsSold": 128,
+    "roomTypeOccupancy": {
+      "standard": 79.9,
+      "deluxe": 93.6,
+      "twin": 87.6,
+      "suite": 63.5
+    }
+  },
+  {
+    "date": "2026-09-25",
+    "roomRevenue": 3947,
+    "restaurantRevenue": 986,
+    "otherRevenue": 1165,
+    "roomsAvailable": 150,
+    "roomsSold": 119,
+    "roomTypeOccupancy": {
+      "standard": 80,
+      "deluxe": 90.5,
+      "twin": 90.8,
+      "suite": 67.6
+    }
+  },
+  {
+    "date": "2026-09-26",
+    "roomRevenue": 6708,
+    "restaurantRevenue": 689,
+    "otherRevenue": 706,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 64.7,
+      "deluxe": 87.8,
+      "twin": 60.8,
+      "suite": 79.7
+    }
+  },
+  {
+    "date": "2026-09-27",
+    "roomRevenue": 4727,
+    "restaurantRevenue": 704,
+    "otherRevenue": 1319,
+    "roomsAvailable": 150,
+    "roomsSold": 131,
+    "roomTypeOccupancy": {
+      "standard": 83.9,
+      "deluxe": 65.2,
+      "twin": 74.3,
+      "suite": 81.4
+    }
+  },
+  {
+    "date": "2026-09-28",
+    "roomRevenue": 4177,
+    "restaurantRevenue": 1463,
+    "otherRevenue": 490,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 65.4,
+      "deluxe": 91.6,
+      "twin": 68.6,
+      "suite": 97.8
+    }
+  },
+  {
+    "date": "2026-09-29",
+    "roomRevenue": 2560,
+    "restaurantRevenue": 599,
+    "otherRevenue": 1311,
+    "roomsAvailable": 150,
+    "roomsSold": 113,
+    "roomTypeOccupancy": {
+      "standard": 68.4,
+      "deluxe": 84.1,
+      "twin": 75.5,
+      "suite": 64.1
+    }
+  },
+  {
+    "date": "2026-09-30",
+    "roomRevenue": 6789,
+    "restaurantRevenue": 534,
+    "otherRevenue": 1583,
+    "roomsAvailable": 150,
+    "roomsSold": 129,
+    "roomTypeOccupancy": {
+      "standard": 96.5,
+      "deluxe": 67.1,
+      "twin": 87.8,
+      "suite": 70
     }
   }
 ]

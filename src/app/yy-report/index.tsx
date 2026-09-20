@@ -27,8 +27,6 @@ import { useRevenueData } from "./data"
 import type { RevenueRow } from "./data"
 import Loading from "@/components/loading"
 
-const TODAY = new Date(2026, 8, 19)
-
 const amountLabels: Record<(typeof amountKeys)[number], string> = {
   roomFee: "房费",
   restaurantFee: "餐费",
@@ -47,10 +45,7 @@ function toDateKey(date: Date) {
 }
 
 function getDefaultDateRange(): DateRange {
-  const to = new Date(TODAY)
-  to.setHours(0, 0, 0, 0)
-  const from = new Date(to.getFullYear(), 0, 1)
-  return { from, to }
+  return { from: new Date(2026, 0, 1), to: new Date(2026, 8, 30) }
 }
 
 const YYReport = () => {

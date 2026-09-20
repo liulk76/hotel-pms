@@ -26,8 +26,8 @@ import logo from "@/assets/logo.svg"
 
 const data = {
   user: {
-    name: "张",
-    email: "TEL:15986369969",
+    name: "湖北觅金酒店中心",
+    // email: "TEL:15986369969",
     avatar: "/avatars/shadcn.jpg",
   },
   navMain: [
@@ -224,7 +224,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
               render={<a href="#" />}
             >
               <img src={logo} alt="住客邦" className="size-5! rounded-sm" />
-              <span className="text-base font-semibold">住客邦 - 酒店云数平台</span>
+              <span className="text-base font-semibold">住客邦 - 酒店云数据平台</span>
             </SidebarMenuButton>
           </SidebarMenuItem>
         </SidebarMenu>

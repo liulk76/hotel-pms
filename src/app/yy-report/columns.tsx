@@ -26,10 +26,10 @@ export const amountKeys: AmountKey[] = [
   "roomFee",
   "restaurantFee",
   "product",
+  "memberCard",
   "meetingFee",
   "roomCompensation",
   "otherConsumption",
-  "memberCard",
 ]
 
 export function getTotalRevenue(row: RevenueRow) {

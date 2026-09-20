@@ -25,7 +25,7 @@ export default function LoginPage() {
           <div className="flex justify-center gap-2 md:justify-center mb-10">
             <a href="#" className="flex items-center gap-2 font-medium">
               <img src={logo} alt="住客邦" className="size-6 rounded-md" />
-              住客邦 - 酒店云数平台
+              住客邦 - 酒店云数据平台
             </a>
           </div>
           <Card className="w-full max-w-sm px-2 py-5 shadow-2xl">

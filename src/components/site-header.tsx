@@ -11,7 +11,7 @@ export function SiteHeader() {
           className="mx-2 h-4 data-vertical:self-auto"
         />
         <div className="text-sm">
-          <span className="text-gray-500">酒店名：</span><span>城市便捷酒店（红安城南店）</span>
+          <span className="text-gray-500">酒店名：</span><span>湖北觅金酒店中心</span>
         </div>
       </div>
     </header>

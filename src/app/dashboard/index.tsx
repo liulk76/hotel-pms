@@ -35,12 +35,15 @@ import Loading from "@/components/loading"
 
 const TODAY = new Date(2026, 8, 19)
 
+const DEFAULT_RANGE: SimpleDateRange = {
+  from: new Date(2026, 0, 1),
+  to: new Date(2026, 8, 30),
+}
+
 export default function Page() {
   const { daily, orders, loading, error } = useBusinessData()
-  const [preset, setPreset] = React.useState<DatePreset | null>("today")
-  const [range, setRange] = React.useState<SimpleDateRange>(() =>
-    getPresetRange("today", TODAY)
-  )
+  const [preset, setPreset] = React.useState<DatePreset | null>(null)
+  const [range, setRange] = React.useState<SimpleDateRange>(DEFAULT_RANGE)
 
   const handlePresetChange = (value: string | null) => {
     if (!value) return
@@ -54,8 +57,8 @@ export default function Page() {
       setPreset(null)
       setRange({ from: value.from, to: value.to })
     } else if (!value) {
-      setPreset("today")
-      setRange(getPresetRange("today", TODAY))
+      setPreset(null)
+      setRange(DEFAULT_RANGE)
     }
   }
 
