@@ -10,7 +10,9 @@
     "lint": "eslint .",
     "format": "prettier --write \"**/*.{ts,tsx}\"",
     "typecheck": "tsc --noEmit",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy-preview": "netlify deploy --dir=dist",
+    "deploy-prod": "netlify deploy --prod --dir=dist"
   },
   "dependencies": {
     "@base-ui/react": "^1.8.0",
