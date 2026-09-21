@@ -1,2732 +1,2732 @@
 [
   {
     "date": "2026-09-30",
-    "roomFee": 6789,
-    "restaurantFee": 534,
-    "product": 740,
+    "roomFee": 7407,
+    "restaurantFee": 1037,
+    "product": 219,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 339,
-    "memberCard": 504
+    "otherConsumption": 0,
+    "memberCard": 1100
   },
   {
     "date": "2026-09-29",
-    "roomFee": 2560,
-    "restaurantFee": 599,
-    "product": 548,
+    "roomFee": 6749,
+    "restaurantFee": 763,
+    "product": 292,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 561,
-    "memberCard": 202
+    "otherConsumption": 0,
+    "memberCard": 400
   },
   {
     "date": "2026-09-28",
-    "roomFee": 4177,
-    "restaurantFee": 1463,
-    "product": 232,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 191,
-    "memberCard": 67
-  },
-  {
-    "date": "2026-09-27",
-    "roomFee": 4727,
-    "restaurantFee": 704,
-    "product": 230,
-    "meetingFee": 666,
-    "roomCompensation": 0,
-    "otherConsumption": 232,
-    "memberCard": 191
-  },
-  {
-    "date": "2026-09-26",
-    "roomFee": 6708,
-    "restaurantFee": 689,
-    "product": 290,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 269,
-    "memberCard": 147
-  },
-  {
-    "date": "2026-09-25",
-    "roomFee": 3947,
-    "restaurantFee": 986,
-    "product": 208,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 112,
-    "memberCard": 845
-  },
-  {
-    "date": "2026-09-24",
-    "roomFee": 4065,
-    "restaurantFee": 855,
-    "product": 634,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 555,
-    "memberCard": 532
-  },
-  {
-    "date": "2026-09-23",
-    "roomFee": 4629,
-    "restaurantFee": 1836,
-    "product": 738,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 602,
-    "memberCard": 871
-  },
-  {
-    "date": "2026-09-22",
-    "roomFee": 3030,
-    "restaurantFee": 1685,
-    "product": 299,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 154,
-    "memberCard": 275
-  },
-  {
-    "date": "2026-09-21",
-    "roomFee": 7052,
-    "restaurantFee": 1166,
-    "product": 613,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 356,
-    "memberCard": 982
-  },
-  {
-    "date": "2026-09-20",
-    "roomFee": 6450,
-    "restaurantFee": 1450,
-    "product": 271,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 380,
-    "memberCard": 96
-  },
-  {
-    "date": "2026-09-19",
-    "roomFee": 6052,
-    "restaurantFee": 1063,
-    "product": 412,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 222,
-    "memberCard": 562
-  },
-  {
-    "date": "2026-09-18",
-    "roomFee": 2832,
-    "restaurantFee": 808,
-    "product": 488,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 487,
-    "memberCard": 1050
-  },
-  {
-    "date": "2026-09-17",
-    "roomFee": 4730,
-    "restaurantFee": 1427,
-    "product": 103,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 471,
-    "memberCard": 493
-  },
-  {
-    "date": "2026-09-16",
-    "roomFee": 2556,
-    "restaurantFee": 1416,
-    "product": 164,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 249,
-    "memberCard": 397
-  },
-  {
-    "date": "2026-09-15",
-    "roomFee": 4740,
-    "restaurantFee": 1849,
-    "product": 203,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 324,
-    "memberCard": 48
-  },
-  {
-    "date": "2026-09-14",
-    "roomFee": 7342,
-    "restaurantFee": 739,
-    "product": 491,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 194,
-    "memberCard": 790
-  },
-  {
-    "date": "2026-09-13",
-    "roomFee": 7821,
-    "restaurantFee": 1559,
-    "product": 463,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 56,
-    "memberCard": 675
-  },
-  {
-    "date": "2026-09-12",
-    "roomFee": 4457,
-    "restaurantFee": 939,
-    "product": 445,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 599,
-    "memberCard": 224
-  },
-  {
-    "date": "2026-09-11",
-    "roomFee": 4074,
-    "restaurantFee": 1781,
-    "product": 447,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 524,
-    "memberCard": 834
-  },
-  {
-    "date": "2026-09-10",
-    "roomFee": 6299,
-    "restaurantFee": 1538,
-    "product": 745,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 404,
-    "memberCard": 56
-  },
-  {
-    "date": "2026-09-09",
-    "roomFee": 4059,
-    "restaurantFee": 1233,
-    "product": 419,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 403,
-    "memberCard": 243
-  },
-  {
-    "date": "2026-09-08",
-    "roomFee": 2683,
-    "restaurantFee": 479,
-    "product": 562,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 303,
-    "memberCard": 508
-  },
-  {
-    "date": "2026-09-07",
-    "roomFee": 2909,
-    "restaurantFee": 816,
-    "product": 399,
-    "meetingFee": 1967,
-    "roomCompensation": 0,
-    "otherConsumption": 303,
-    "memberCard": 160
-  },
-  {
-    "date": "2026-09-06",
-    "roomFee": 5482,
-    "restaurantFee": 1239,
-    "product": 175,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 386,
-    "memberCard": 247
-  },
-  {
-    "date": "2026-09-05",
-    "roomFee": 4719,
-    "restaurantFee": 1386,
-    "product": 704,
-    "meetingFee": 342,
-    "roomCompensation": 0,
-    "otherConsumption": 560,
-    "memberCard": 675
-  },
-  {
-    "date": "2026-09-04",
-    "roomFee": 2707,
-    "restaurantFee": 535,
-    "product": 344,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 102,
-    "memberCard": 1104
-  },
-  {
-    "date": "2026-09-03",
-    "roomFee": 8074,
-    "restaurantFee": 672,
-    "product": 605,
-    "meetingFee": 192,
-    "roomCompensation": 0,
-    "otherConsumption": 42,
-    "memberCard": 251
-  },
-  {
-    "date": "2026-09-02",
-    "roomFee": 3286,
-    "restaurantFee": 1237,
-    "product": 468,
-    "meetingFee": 0,
-    "roomCompensation": 100,
-    "otherConsumption": 65,
-    "memberCard": 848
-  },
-  {
-    "date": "2026-09-01",
-    "roomFee": 7086,
-    "restaurantFee": 767,
-    "product": 308,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 309,
-    "memberCard": 443
-  },
-  {
-    "date": "2026-08-31",
-    "roomFee": 4529,
-    "restaurantFee": 1430,
-    "product": 30,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 39,
-    "memberCard": 349
-  },
-  {
-    "date": "2026-08-30",
-    "roomFee": 7272,
-    "restaurantFee": 1568,
-    "product": 342,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 411,
-    "memberCard": 189
-  },
-  {
-    "date": "2026-08-29",
-    "roomFee": 8239,
-    "restaurantFee": 1560,
-    "product": 656,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 561,
-    "memberCard": 669
-  },
-  {
-    "date": "2026-08-28",
-    "roomFee": 3235,
-    "restaurantFee": 541,
-    "product": 95,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 272,
-    "memberCard": 35
-  },
-  {
-    "date": "2026-08-27",
-    "roomFee": 2634,
-    "restaurantFee": 596,
-    "product": 572,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 294,
-    "memberCard": 607
-  },
-  {
-    "date": "2026-08-26",
-    "roomFee": 6346,
-    "restaurantFee": 1549,
-    "product": 335,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 359,
-    "memberCard": 781
-  },
-  {
-    "date": "2026-08-25",
-    "roomFee": 6360,
-    "restaurantFee": 904,
-    "product": 720,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 251,
-    "memberCard": 1018
-  },
-  {
-    "date": "2026-08-24",
-    "roomFee": 6576,
-    "restaurantFee": 970,
-    "product": 731,
-    "meetingFee": 2256,
-    "roomCompensation": 0,
-    "otherConsumption": 569,
-    "memberCard": 610
-  },
-  {
-    "date": "2026-08-23",
-    "roomFee": 3417,
-    "restaurantFee": 855,
-    "product": 440,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 434,
-    "memberCard": 1084
-  },
-  {
-    "date": "2026-08-22",
-    "roomFee": 7482,
-    "restaurantFee": 1528,
-    "product": 88,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 246,
-    "memberCard": 365
-  },
-  {
-    "date": "2026-08-21",
-    "roomFee": 2829,
-    "restaurantFee": 1857,
-    "product": 468,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 40,
-    "memberCard": 620
-  },
-  {
-    "date": "2026-08-20",
-    "roomFee": 4610,
-    "restaurantFee": 1737,
-    "product": 565,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 178,
-    "memberCard": 758
-  },
-  {
-    "date": "2026-08-19",
-    "roomFee": 7312,
-    "restaurantFee": 1295,
-    "product": 171,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 554,
-    "memberCard": 885
-  },
-  {
-    "date": "2026-08-18",
-    "roomFee": 4520,
-    "restaurantFee": 1612,
-    "product": 273,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 119,
-    "memberCard": 34
-  },
-  {
-    "date": "2026-08-17",
-    "roomFee": 4761,
-    "restaurantFee": 796,
-    "product": 200,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 378,
-    "memberCard": 686
-  },
-  {
-    "date": "2026-08-16",
-    "roomFee": 7135,
-    "restaurantFee": 713,
-    "product": 697,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 595,
-    "memberCard": 529
-  },
-  {
-    "date": "2026-08-15",
-    "roomFee": 4472,
-    "restaurantFee": 873,
-    "product": 358,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 364,
-    "memberCard": 493
-  },
-  {
-    "date": "2026-08-14",
-    "roomFee": 8126,
-    "restaurantFee": 683,
-    "product": 175,
-    "meetingFee": 0,
-    "roomCompensation": 50,
-    "otherConsumption": 590,
-    "memberCard": 219
-  },
-  {
-    "date": "2026-08-13",
-    "roomFee": 2592,
-    "restaurantFee": 1243,
-    "product": 179,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 197,
-    "memberCard": 1050
-  },
-  {
-    "date": "2026-08-12",
-    "roomFee": 4747,
-    "restaurantFee": 1637,
-    "product": 38,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 145,
-    "memberCard": 26
-  },
-  {
-    "date": "2026-08-11",
-    "roomFee": 5883,
-    "restaurantFee": 1327,
-    "product": 725,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 210,
-    "memberCard": 792
-  },
-  {
-    "date": "2026-08-10",
-    "roomFee": 3794,
-    "restaurantFee": 1083,
-    "product": 201,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 152,
-    "memberCard": 195
-  },
-  {
-    "date": "2026-08-09",
-    "roomFee": 2379,
-    "restaurantFee": 1096,
-    "product": 631,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 277,
-    "memberCard": 149
-  },
-  {
-    "date": "2026-08-08",
-    "roomFee": 3798,
-    "restaurantFee": 1524,
-    "product": 504,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 264,
-    "memberCard": 844
-  },
-  {
-    "date": "2026-08-07",
-    "roomFee": 4203,
-    "restaurantFee": 517,
-    "product": 317,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 417,
-    "memberCard": 966
-  },
-  {
-    "date": "2026-08-06",
-    "roomFee": 7020,
-    "restaurantFee": 1396,
-    "product": 509,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 122,
-    "memberCard": 713
-  },
-  {
-    "date": "2026-08-05",
-    "roomFee": 4882,
-    "restaurantFee": 1731,
-    "product": 336,
-    "meetingFee": 424,
-    "roomCompensation": 0,
-    "otherConsumption": 555,
-    "memberCard": 827
-  },
-  {
-    "date": "2026-08-04",
-    "roomFee": 3103,
-    "restaurantFee": 1368,
-    "product": 394,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 94,
-    "memberCard": 394
-  },
-  {
-    "date": "2026-08-03",
-    "roomFee": 4272,
-    "restaurantFee": 682,
-    "product": 475,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 603,
-    "memberCard": 381
-  },
-  {
-    "date": "2026-08-02",
-    "roomFee": 6250,
-    "restaurantFee": 1336,
-    "product": 468,
-    "meetingFee": 621,
-    "roomCompensation": 0,
-    "otherConsumption": 497,
-    "memberCard": 927
-  },
-  {
-    "date": "2026-08-01",
-    "roomFee": 6112,
-    "restaurantFee": 1834,
-    "product": 615,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 261,
-    "memberCard": 721
-  },
-  {
-    "date": "2026-07-31",
-    "roomFee": 4765,
-    "restaurantFee": 1590,
-    "product": 48,
-    "meetingFee": 2079,
-    "roomCompensation": 200,
-    "otherConsumption": 24,
-    "memberCard": 293
-  },
-  {
-    "date": "2026-07-30",
-    "roomFee": 5461,
-    "restaurantFee": 1124,
-    "product": 135,
-    "meetingFee": 229,
-    "roomCompensation": 0,
-    "otherConsumption": 493,
-    "memberCard": 127
-  },
-  {
-    "date": "2026-07-29",
-    "roomFee": 3036,
-    "restaurantFee": 983,
-    "product": 333,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 306,
-    "memberCard": 829
-  },
-  {
-    "date": "2026-07-28",
-    "roomFee": 6919,
-    "restaurantFee": 1609,
-    "product": 686,
-    "meetingFee": 723,
-    "roomCompensation": 0,
-    "otherConsumption": 543,
-    "memberCard": 624
-  },
-  {
-    "date": "2026-07-27",
-    "roomFee": 5695,
-    "restaurantFee": 1775,
-    "product": 659,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 314,
-    "memberCard": 374
-  },
-  {
-    "date": "2026-07-26",
-    "roomFee": 3227,
-    "restaurantFee": 755,
-    "product": 708,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 535,
-    "memberCard": 1110
-  },
-  {
-    "date": "2026-07-25",
-    "roomFee": 8247,
-    "restaurantFee": 1873,
-    "product": 441,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 192,
-    "memberCard": 981
-  },
-  {
-    "date": "2026-07-24",
-    "roomFee": 5889,
-    "restaurantFee": 1581,
-    "product": 62,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 224,
-    "memberCard": 720
-  },
-  {
-    "date": "2026-07-23",
-    "roomFee": 5642,
-    "restaurantFee": 1473,
-    "product": 278,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 580,
-    "memberCard": 432
-  },
-  {
-    "date": "2026-07-22",
-    "roomFee": 6976,
-    "restaurantFee": 1653,
-    "product": 520,
-    "meetingFee": 1573,
-    "roomCompensation": 0,
-    "otherConsumption": 165,
-    "memberCard": 964
-  },
-  {
-    "date": "2026-07-21",
-    "roomFee": 2575,
-    "restaurantFee": 514,
-    "product": 516,
-    "meetingFee": 1808,
-    "roomCompensation": 0,
-    "otherConsumption": 372,
-    "memberCard": 1037
-  },
-  {
-    "date": "2026-07-20",
-    "roomFee": 7395,
-    "restaurantFee": 608,
-    "product": 83,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 146,
-    "memberCard": 876
-  },
-  {
-    "date": "2026-07-19",
-    "roomFee": 6004,
-    "restaurantFee": 1157,
-    "product": 406,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 554,
-    "memberCard": 520
-  },
-  {
-    "date": "2026-07-18",
-    "roomFee": 7395,
-    "restaurantFee": 714,
-    "product": 578,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 84,
-    "memberCard": 745
-  },
-  {
-    "date": "2026-07-17",
-    "roomFee": 6911,
-    "restaurantFee": 1501,
-    "product": 321,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 119,
-    "memberCard": 149
-  },
-  {
-    "date": "2026-07-16",
-    "roomFee": 4526,
-    "restaurantFee": 964,
-    "product": 554,
-    "meetingFee": 782,
-    "roomCompensation": 0,
-    "otherConsumption": 186,
-    "memberCard": 512
-  },
-  {
-    "date": "2026-07-15",
-    "roomFee": 2723,
-    "restaurantFee": 1590,
-    "product": 111,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 608,
-    "memberCard": 891
-  },
-  {
-    "date": "2026-07-14",
-    "roomFee": 5686,
-    "restaurantFee": 594,
-    "product": 245,
-    "meetingFee": 861,
-    "roomCompensation": 0,
-    "otherConsumption": 113,
-    "memberCard": 676
-  },
-  {
-    "date": "2026-07-13",
-    "roomFee": 3037,
-    "restaurantFee": 673,
-    "product": 666,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 40,
-    "memberCard": 990
-  },
-  {
-    "date": "2026-07-12",
-    "roomFee": 2728,
-    "restaurantFee": 421,
-    "product": 518,
-    "meetingFee": 1540,
-    "roomCompensation": 0,
-    "otherConsumption": 172,
-    "memberCard": 195
-  },
-  {
-    "date": "2026-07-11",
-    "roomFee": 6375,
-    "restaurantFee": 1724,
-    "product": 745,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 335,
-    "memberCard": 1025
-  },
-  {
-    "date": "2026-07-10",
-    "roomFee": 4174,
-    "restaurantFee": 853,
-    "product": 459,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 33,
-    "memberCard": 1084
-  },
-  {
-    "date": "2026-07-09",
-    "roomFee": 3411,
-    "restaurantFee": 409,
-    "product": 655,
-    "meetingFee": 380,
-    "roomCompensation": 0,
-    "otherConsumption": 501,
-    "memberCard": 205
-  },
-  {
-    "date": "2026-07-08",
-    "roomFee": 3122,
-    "restaurantFee": 653,
-    "product": 421,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 489,
-    "memberCard": 67
-  },
-  {
-    "date": "2026-07-07",
-    "roomFee": 4084,
-    "restaurantFee": 814,
-    "product": 303,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 21,
-    "memberCard": 706
-  },
-  {
-    "date": "2026-07-06",
-    "roomFee": 4675,
-    "restaurantFee": 624,
-    "product": 179,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 561,
-    "memberCard": 618
-  },
-  {
-    "date": "2026-07-05",
-    "roomFee": 8335,
-    "restaurantFee": 452,
-    "product": 370,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 591,
-    "memberCard": 767
-  },
-  {
-    "date": "2026-07-04",
-    "roomFee": 7853,
-    "restaurantFee": 1025,
-    "product": 559,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 206,
-    "memberCard": 471
-  },
-  {
-    "date": "2026-07-03",
-    "roomFee": 4621,
-    "restaurantFee": 1088,
-    "product": 141,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 414,
-    "memberCard": 252
-  },
-  {
-    "date": "2026-07-02",
-    "roomFee": 5252,
-    "restaurantFee": 1407,
-    "product": 438,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 73,
-    "memberCard": 1047
-  },
-  {
-    "date": "2026-07-01",
-    "roomFee": 5725,
-    "restaurantFee": 464,
-    "product": 448,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 233,
-    "memberCard": 943
-  },
-  {
-    "date": "2026-06-30",
-    "roomFee": 4758,
-    "restaurantFee": 1330,
-    "product": 191,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 476,
-    "memberCard": 747
-  },
-  {
-    "date": "2026-06-29",
-    "roomFee": 6949,
-    "restaurantFee": 1851,
-    "product": 399,
-    "meetingFee": 983,
-    "roomCompensation": 0,
-    "otherConsumption": 584,
-    "memberCard": 670
-  },
-  {
-    "date": "2026-06-28",
-    "roomFee": 4873,
-    "restaurantFee": 1842,
-    "product": 273,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 180,
-    "memberCard": 392
-  },
-  {
-    "date": "2026-06-27",
-    "roomFee": 6997,
-    "restaurantFee": 831,
-    "product": 347,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 557,
-    "memberCard": 133
-  },
-  {
-    "date": "2026-06-26",
-    "roomFee": 3685,
-    "restaurantFee": 729,
-    "product": 107,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 542,
-    "memberCard": 842
-  },
-  {
-    "date": "2026-06-25",
-    "roomFee": 4666,
-    "restaurantFee": 411,
-    "product": 58,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 52,
-    "memberCard": 453
-  },
-  {
-    "date": "2026-06-24",
-    "roomFee": 7856,
-    "restaurantFee": 1384,
-    "product": 411,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 338,
-    "memberCard": 679
-  },
-  {
-    "date": "2026-06-23",
-    "roomFee": 6823,
-    "restaurantFee": 1601,
-    "product": 364,
-    "meetingFee": 0,
-    "roomCompensation": 200,
-    "otherConsumption": 272,
-    "memberCard": 1001
-  },
-  {
-    "date": "2026-06-22",
-    "roomFee": 2893,
-    "restaurantFee": 608,
-    "product": 611,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 481,
-    "memberCard": 1087
-  },
-  {
-    "date": "2026-06-21",
-    "roomFee": 7926,
-    "restaurantFee": 823,
-    "product": 159,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 319,
-    "memberCard": 639
-  },
-  {
-    "date": "2026-06-20",
-    "roomFee": 6814,
-    "restaurantFee": 760,
-    "product": 71,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 261,
-    "memberCard": 254
-  },
-  {
-    "date": "2026-06-19",
-    "roomFee": 2429,
-    "restaurantFee": 1758,
-    "product": 664,
-    "meetingFee": 1693,
-    "roomCompensation": 0,
-    "otherConsumption": 474,
-    "memberCard": 251
-  },
-  {
-    "date": "2026-06-18",
-    "roomFee": 3427,
-    "restaurantFee": 430,
-    "product": 284,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 600,
-    "memberCard": 317
-  },
-  {
-    "date": "2026-06-17",
-    "roomFee": 3370,
-    "restaurantFee": 1743,
-    "product": 746,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 28,
-    "memberCard": 166
-  },
-  {
-    "date": "2026-06-16",
-    "roomFee": 2694,
-    "restaurantFee": 418,
-    "product": 524,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 45,
-    "memberCard": 792
-  },
-  {
-    "date": "2026-06-15",
-    "roomFee": 2934,
-    "restaurantFee": 1684,
-    "product": 30,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 415,
-    "memberCard": 166
-  },
-  {
-    "date": "2026-06-14",
-    "roomFee": 2883,
-    "restaurantFee": 1384,
-    "product": 368,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 169,
-    "memberCard": 310
-  },
-  {
-    "date": "2026-06-13",
-    "roomFee": 3798,
-    "restaurantFee": 1105,
-    "product": 622,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 275,
-    "memberCard": 829
-  },
-  {
-    "date": "2026-06-12",
-    "roomFee": 6906,
-    "restaurantFee": 821,
-    "product": 11,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 167,
-    "memberCard": 138
-  },
-  {
-    "date": "2026-06-11",
-    "roomFee": 4386,
-    "restaurantFee": 840,
-    "product": 431,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 511,
-    "memberCard": 869
-  },
-  {
-    "date": "2026-06-10",
-    "roomFee": 7797,
-    "restaurantFee": 939,
-    "product": 416,
-    "meetingFee": 1111,
-    "roomCompensation": 0,
-    "otherConsumption": 142,
-    "memberCard": 913
-  },
-  {
-    "date": "2026-06-09",
-    "roomFee": 4218,
-    "restaurantFee": 1228,
-    "product": 414,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 268,
-    "memberCard": 628
-  },
-  {
-    "date": "2026-06-08",
-    "roomFee": 7008,
-    "restaurantFee": 498,
-    "product": 266,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 473,
-    "memberCard": 272
-  },
-  {
-    "date": "2026-06-07",
-    "roomFee": 3065,
-    "restaurantFee": 1152,
-    "product": 647,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 27,
-    "memberCard": 1032
-  },
-  {
-    "date": "2026-06-06",
-    "roomFee": 3521,
-    "restaurantFee": 542,
-    "product": 552,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 291,
-    "memberCard": 123
-  },
-  {
-    "date": "2026-06-05",
-    "roomFee": 2915,
-    "restaurantFee": 1848,
-    "product": 293,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 254,
-    "memberCard": 157
-  },
-  {
-    "date": "2026-06-04",
-    "roomFee": 7514,
-    "restaurantFee": 1040,
-    "product": 364,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 118,
-    "memberCard": 632
-  },
-  {
-    "date": "2026-06-03",
-    "roomFee": 4709,
-    "restaurantFee": 1504,
-    "product": 479,
-    "meetingFee": 0,
-    "roomCompensation": 100,
-    "otherConsumption": 388,
-    "memberCard": 827
-  },
-  {
-    "date": "2026-06-02",
-    "roomFee": 7383,
-    "restaurantFee": 1520,
-    "product": 402,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 174,
-    "memberCard": 235
-  },
-  {
-    "date": "2026-06-01",
-    "roomFee": 4069,
-    "restaurantFee": 1107,
-    "product": 230,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 442,
-    "memberCard": 138
-  },
-  {
-    "date": "2026-05-31",
-    "roomFee": 2329,
-    "restaurantFee": 1654,
-    "product": 342,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 99,
-    "memberCard": 507
-  },
-  {
-    "date": "2026-05-30",
-    "roomFee": 5810,
-    "restaurantFee": 859,
-    "product": 710,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 495,
-    "memberCard": 1089
-  },
-  {
-    "date": "2026-05-29",
-    "roomFee": 5928,
-    "restaurantFee": 965,
-    "product": 407,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 192,
-    "memberCard": 142
-  },
-  {
-    "date": "2026-05-28",
-    "roomFee": 6223,
-    "restaurantFee": 1635,
+    "roomFee": 5531,
+    "restaurantFee": 731,
     "product": 250,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 299,
-    "memberCard": 912
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-09-27",
+    "roomFee": 8803,
+    "restaurantFee": 1056,
+    "product": 467,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1300
+  },
+  {
+    "date": "2026-09-26",
+    "roomFee": 7988,
+    "restaurantFee": 1694,
+    "product": 376,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1200
+  },
+  {
+    "date": "2026-09-25",
+    "roomFee": 7409,
+    "restaurantFee": 1505,
+    "product": 336,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-09-24",
+    "roomFee": 4855,
+    "restaurantFee": 662,
+    "product": 256,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-09-23",
+    "roomFee": 7038,
+    "restaurantFee": 1063,
+    "product": 365,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-09-22",
+    "roomFee": 4678,
+    "restaurantFee": 686,
+    "product": 122,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-09-21",
+    "roomFee": 7017,
+    "restaurantFee": 797,
+    "product": 232,
+    "meetingFee": 0,
+    "roomCompensation": 100,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-09-20",
+    "roomFee": 5400,
+    "restaurantFee": 1022,
+    "product": 262,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-09-19",
+    "roomFee": 7919,
+    "restaurantFee": 1057,
+    "product": 349,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-09-18",
+    "roomFee": 5219,
+    "restaurantFee": 837,
+    "product": 244,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-09-17",
+    "roomFee": 4329,
+    "restaurantFee": 513,
+    "product": 124,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-09-16",
+    "roomFee": 4165,
+    "restaurantFee": 598,
+    "product": 213,
+    "meetingFee": 2000,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-09-15",
+    "roomFee": 6088,
+    "restaurantFee": 623,
+    "product": 270,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-09-14",
+    "roomFee": 4790,
+    "restaurantFee": 794,
+    "product": 229,
+    "meetingFee": 1700,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-09-13",
+    "roomFee": 8122,
+    "restaurantFee": 1165,
+    "product": 257,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-09-12",
+    "roomFee": 6166,
+    "restaurantFee": 787,
+    "product": 245,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-09-11",
+    "roomFee": 4084,
+    "restaurantFee": 737,
+    "product": 168,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-09-10",
+    "roomFee": 7361,
+    "restaurantFee": 1000,
+    "product": 388,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-09-09",
+    "roomFee": 4733,
+    "restaurantFee": 871,
+    "product": 233,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-09-08",
+    "roomFee": 6569,
+    "restaurantFee": 704,
+    "product": 321,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-09-07",
+    "roomFee": 4165,
+    "restaurantFee": 635,
+    "product": 145,
+    "meetingFee": 1700,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-09-06",
+    "roomFee": 5150,
+    "restaurantFee": 810,
+    "product": 226,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-09-05",
+    "roomFee": 6159,
+    "restaurantFee": 880,
+    "product": 356,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-09-04",
+    "roomFee": 4984,
+    "restaurantFee": 883,
+    "product": 278,
+    "meetingFee": 900,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-09-03",
+    "roomFee": 6665,
+    "restaurantFee": 1096,
+    "product": 167,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-09-02",
+    "roomFee": 5966,
+    "restaurantFee": 835,
+    "product": 165,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-09-01",
+    "roomFee": 5740,
+    "restaurantFee": 739,
+    "product": 293,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-08-31",
+    "roomFee": 4328,
+    "restaurantFee": 692,
+    "product": 123,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-08-30",
+    "roomFee": 8335,
+    "restaurantFee": 1269,
+    "product": 341,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-08-29",
+    "roomFee": 7495,
+    "restaurantFee": 1529,
+    "product": 330,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1200
+  },
+  {
+    "date": "2026-08-28",
+    "roomFee": 6329,
+    "restaurantFee": 792,
+    "product": 204,
+    "meetingFee": 0,
+    "roomCompensation": 200,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-08-27",
+    "roomFee": 3682,
+    "restaurantFee": 505,
+    "product": 149,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-08-26",
+    "roomFee": 6167,
+    "restaurantFee": 741,
+    "product": 239,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-08-25",
+    "roomFee": 4466,
+    "restaurantFee": 842,
+    "product": 215,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-08-24",
+    "roomFee": 7337,
+    "restaurantFee": 884,
+    "product": 296,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-08-23",
+    "roomFee": 4449,
+    "restaurantFee": 579,
+    "product": 123,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-08-22",
+    "roomFee": 6070,
+    "restaurantFee": 1138,
+    "product": 250,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-08-21",
+    "roomFee": 5969,
+    "restaurantFee": 1110,
+    "product": 196,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-08-20",
+    "roomFee": 6054,
+    "restaurantFee": 773,
+    "product": 199,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-08-19",
+    "roomFee": 4035,
+    "restaurantFee": 707,
+    "product": 176,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-08-18",
+    "roomFee": 7180,
+    "restaurantFee": 1092,
+    "product": 385,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-08-17",
+    "roomFee": 5072,
+    "restaurantFee": 621,
+    "product": 147,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-08-16",
+    "roomFee": 4551,
+    "restaurantFee": 880,
+    "product": 236,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-08-15",
+    "roomFee": 6526,
+    "restaurantFee": 829,
+    "product": 308,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-08-14",
+    "roomFee": 3779,
+    "restaurantFee": 641,
+    "product": 168,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-08-13",
+    "roomFee": 3989,
+    "restaurantFee": 469,
+    "product": 166,
+    "meetingFee": 400,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-08-12",
+    "roomFee": 3913,
+    "restaurantFee": 410,
+    "product": 101,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-08-11",
+    "roomFee": 4454,
+    "restaurantFee": 640,
+    "product": 263,
+    "meetingFee": 200,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-08-10",
+    "roomFee": 5038,
+    "restaurantFee": 508,
+    "product": 281,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-08-09",
+    "roomFee": 8139,
+    "restaurantFee": 1388,
+    "product": 468,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-08-08",
+    "roomFee": 7085,
+    "restaurantFee": 911,
+    "product": 373,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-08-07",
+    "roomFee": 5734,
+    "restaurantFee": 703,
+    "product": 243,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-08-06",
+    "roomFee": 6225,
+    "restaurantFee": 998,
+    "product": 197,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-08-05",
+    "roomFee": 4807,
+    "restaurantFee": 615,
+    "product": 220,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-08-04",
+    "roomFee": 7197,
+    "restaurantFee": 1362,
+    "product": 261,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-08-03",
+    "roomFee": 7054,
+    "restaurantFee": 814,
+    "product": 417,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-08-02",
+    "roomFee": 5897,
+    "restaurantFee": 1166,
+    "product": 309,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-08-01",
+    "roomFee": 7410,
+    "restaurantFee": 1308,
+    "product": 424,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-07-31",
+    "roomFee": 5292,
+    "restaurantFee": 581,
+    "product": 314,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-07-30",
+    "roomFee": 7065,
+    "restaurantFee": 741,
+    "product": 280,
+    "meetingFee": 2400,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-07-29",
+    "roomFee": 6596,
+    "restaurantFee": 665,
+    "product": 392,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-07-28",
+    "roomFee": 5582,
+    "restaurantFee": 624,
+    "product": 150,
+    "meetingFee": 0,
+    "roomCompensation": 100,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-07-27",
+    "roomFee": 5176,
+    "restaurantFee": 624,
+    "product": 260,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-07-26",
+    "roomFee": 6129,
+    "restaurantFee": 840,
+    "product": 206,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-07-25",
+    "roomFee": 5844,
+    "restaurantFee": 751,
+    "product": 309,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1200
+  },
+  {
+    "date": "2026-07-24",
+    "roomFee": 3720,
+    "restaurantFee": 451,
+    "product": 174,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-07-23",
+    "roomFee": 3988,
+    "restaurantFee": 568,
+    "product": 227,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-07-22",
+    "roomFee": 4555,
+    "restaurantFee": 517,
+    "product": 242,
+    "meetingFee": 500,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-07-21",
+    "roomFee": 4449,
+    "restaurantFee": 661,
+    "product": 238,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-07-20",
+    "roomFee": 4950,
+    "restaurantFee": 711,
+    "product": 241,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-07-19",
+    "roomFee": 9060,
+    "restaurantFee": 1645,
+    "product": 343,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-07-18",
+    "roomFee": 5033,
+    "restaurantFee": 1067,
+    "product": 210,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-07-17",
+    "roomFee": 6919,
+    "restaurantFee": 1020,
+    "product": 188,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-07-16",
+    "roomFee": 7236,
+    "restaurantFee": 848,
+    "product": 417,
+    "meetingFee": 2300,
+    "roomCompensation": 200,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-07-15",
+    "roomFee": 4206,
+    "restaurantFee": 545,
+    "product": 185,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-07-14",
+    "roomFee": 4401,
+    "restaurantFee": 638,
+    "product": 127,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-07-13",
+    "roomFee": 5184,
+    "restaurantFee": 630,
+    "product": 210,
+    "meetingFee": 1200,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-07-12",
+    "roomFee": 6360,
+    "restaurantFee": 1132,
+    "product": 199,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-07-11",
+    "roomFee": 7652,
+    "restaurantFee": 1023,
+    "product": 278,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-07-10",
+    "roomFee": 4256,
+    "restaurantFee": 439,
+    "product": 197,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-07-09",
+    "roomFee": 6098,
+    "restaurantFee": 767,
+    "product": 357,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-07-08",
+    "roomFee": 4052,
+    "restaurantFee": 535,
+    "product": 164,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-07-07",
+    "roomFee": 4266,
+    "restaurantFee": 543,
+    "product": 142,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-07-06",
+    "roomFee": 3781,
+    "restaurantFee": 554,
+    "product": 139,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-07-05",
+    "roomFee": 8549,
+    "restaurantFee": 1067,
+    "product": 346,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-07-04",
+    "roomFee": 5567,
+    "restaurantFee": 843,
+    "product": 321,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-07-03",
+    "roomFee": 6746,
+    "restaurantFee": 1187,
+    "product": 306,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-07-02",
+    "roomFee": 4183,
+    "restaurantFee": 618,
+    "product": 212,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-07-01",
+    "roomFee": 5763,
+    "restaurantFee": 879,
+    "product": 308,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-06-30",
+    "roomFee": 4675,
+    "restaurantFee": 477,
+    "product": 201,
+    "meetingFee": 0,
+    "roomCompensation": 200,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-06-29",
+    "roomFee": 7045,
+    "restaurantFee": 959,
+    "product": 296,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-06-28",
+    "roomFee": 4584,
+    "restaurantFee": 721,
+    "product": 169,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-06-27",
+    "roomFee": 5215,
+    "restaurantFee": 706,
+    "product": 205,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-06-26",
+    "roomFee": 4330,
+    "restaurantFee": 529,
+    "product": 122,
+    "meetingFee": 0,
+    "roomCompensation": 200,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-06-25",
+    "roomFee": 4629,
+    "restaurantFee": 486,
+    "product": 172,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-06-24",
+    "roomFee": 5794,
+    "restaurantFee": 994,
+    "product": 219,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-06-23",
+    "roomFee": 6326,
+    "restaurantFee": 1067,
+    "product": 237,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-06-22",
+    "roomFee": 4168,
+    "restaurantFee": 756,
+    "product": 204,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-06-21",
+    "roomFee": 9676,
+    "restaurantFee": 1886,
+    "product": 340,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-06-20",
+    "roomFee": 5773,
+    "restaurantFee": 1004,
+    "product": 330,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-06-19",
+    "roomFee": 6738,
+    "restaurantFee": 913,
+    "product": 235,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-06-18",
+    "roomFee": 6879,
+    "restaurantFee": 985,
+    "product": 206,
+    "meetingFee": 2100,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-06-17",
+    "roomFee": 6821,
+    "restaurantFee": 1133,
+    "product": 229,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-06-16",
+    "roomFee": 4282,
+    "restaurantFee": 479,
+    "product": 236,
+    "meetingFee": 1500,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-06-15",
+    "roomFee": 7421,
+    "restaurantFee": 950,
+    "product": 371,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-06-14",
+    "roomFee": 5233,
+    "restaurantFee": 1124,
+    "product": 238,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-06-13",
+    "roomFee": 6863,
+    "restaurantFee": 1139,
+    "product": 249,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-06-12",
+    "roomFee": 5127,
+    "restaurantFee": 771,
+    "product": 293,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-06-11",
+    "roomFee": 4434,
+    "restaurantFee": 466,
+    "product": 125,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-06-10",
+    "roomFee": 6899,
+    "restaurantFee": 783,
+    "product": 273,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-06-09",
+    "roomFee": 7215,
+    "restaurantFee": 1300,
+    "product": 401,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-06-08",
+    "roomFee": 4522,
+    "restaurantFee": 460,
+    "product": 211,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-06-07",
+    "roomFee": 7222,
+    "restaurantFee": 1354,
+    "product": 299,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-06-06",
+    "roomFee": 7665,
+    "restaurantFee": 1394,
+    "product": 203,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-06-05",
+    "roomFee": 5220,
+    "restaurantFee": 869,
+    "product": 307,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-06-04",
+    "roomFee": 4072,
+    "restaurantFee": 585,
+    "product": 207,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-06-03",
+    "roomFee": 3801,
+    "restaurantFee": 680,
+    "product": 225,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-06-02",
+    "roomFee": 5895,
+    "restaurantFee": 1104,
+    "product": 209,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-06-01",
+    "roomFee": 6729,
+    "restaurantFee": 1014,
+    "product": 265,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-05-31",
+    "roomFee": 8692,
+    "restaurantFee": 1359,
+    "product": 315,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1200
+  },
+  {
+    "date": "2026-05-30",
+    "roomFee": 6883,
+    "restaurantFee": 1135,
+    "product": 382,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-05-29",
+    "roomFee": 7134,
+    "restaurantFee": 890,
+    "product": 252,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-05-28",
+    "roomFee": 5780,
+    "restaurantFee": 720,
+    "product": 192,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
   },
   {
     "date": "2026-05-27",
-    "roomFee": 3543,
-    "restaurantFee": 1285,
-    "product": 686,
+    "roomFee": 4991,
+    "restaurantFee": 514,
+    "product": 141,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 544,
-    "memberCard": 434
+    "otherConsumption": 0,
+    "memberCard": 1000
   },
   {
     "date": "2026-05-26",
-    "roomFee": 4906,
-    "restaurantFee": 1539,
-    "product": 156,
+    "roomFee": 4908,
+    "restaurantFee": 760,
+    "product": 222,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 567,
-    "memberCard": 379
+    "otherConsumption": 0,
+    "memberCard": 1000
   },
   {
     "date": "2026-05-25",
-    "roomFee": 3901,
-    "restaurantFee": 700,
-    "product": 683,
+    "roomFee": 6059,
+    "restaurantFee": 1097,
+    "product": 155,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 404,
-    "memberCard": 870
+    "otherConsumption": 0,
+    "memberCard": 900
   },
   {
     "date": "2026-05-24",
-    "roomFee": 6178,
-    "restaurantFee": 1340,
-    "product": 115,
+    "roomFee": 8235,
+    "restaurantFee": 1277,
+    "product": 247,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 402,
-    "memberCard": 1073
+    "otherConsumption": 0,
+    "memberCard": 700
   },
   {
     "date": "2026-05-23",
-    "roomFee": 2791,
-    "restaurantFee": 720,
-    "product": 581,
+    "roomFee": 5696,
+    "restaurantFee": 748,
+    "product": 143,
     "meetingFee": 0,
-    "roomCompensation": 100,
-    "otherConsumption": 175,
-    "memberCard": 1068
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
   },
   {
     "date": "2026-05-22",
-    "roomFee": 6887,
-    "restaurantFee": 790,
-    "product": 522,
+    "roomFee": 4642,
+    "restaurantFee": 540,
+    "product": 207,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 259,
+    "otherConsumption": 0,
     "memberCard": 300
   },
   {
     "date": "2026-05-21",
-    "roomFee": 6906,
-    "restaurantFee": 1047,
-    "product": 755,
+    "roomFee": 6658,
+    "restaurantFee": 674,
+    "product": 207,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 180,
-    "memberCard": 640
+    "otherConsumption": 0,
+    "memberCard": 1100
   },
   {
     "date": "2026-05-20",
-    "roomFee": 2385,
-    "restaurantFee": 523,
-    "product": 458,
-    "meetingFee": 1007,
+    "roomFee": 7111,
+    "restaurantFee": 875,
+    "product": 408,
+    "meetingFee": 1800,
     "roomCompensation": 0,
-    "otherConsumption": 399,
-    "memberCard": 268
+    "otherConsumption": 0,
+    "memberCard": 1000
   },
   {
     "date": "2026-05-19",
-    "roomFee": 4038,
-    "restaurantFee": 1879,
-    "product": 232,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 494,
-    "memberCard": 912
-  },
-  {
-    "date": "2026-05-18",
-    "roomFee": 6589,
-    "restaurantFee": 697,
-    "product": 707,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 77,
-    "memberCard": 954
-  },
-  {
-    "date": "2026-05-17",
-    "roomFee": 3180,
-    "restaurantFee": 1371,
-    "product": 343,
-    "meetingFee": 522,
-    "roomCompensation": 0,
-    "otherConsumption": 27,
-    "memberCard": 113
-  },
-  {
-    "date": "2026-05-16",
-    "roomFee": 6236,
-    "restaurantFee": 1865,
-    "product": 493,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 174,
-    "memberCard": 172
-  },
-  {
-    "date": "2026-05-15",
-    "roomFee": 7155,
-    "restaurantFee": 742,
-    "product": 744,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 45,
-    "memberCard": 194
-  },
-  {
-    "date": "2026-05-14",
-    "roomFee": 4994,
-    "restaurantFee": 1080,
-    "product": 335,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 527,
-    "memberCard": 364
-  },
-  {
-    "date": "2026-05-13",
-    "roomFee": 4783,
-    "restaurantFee": 433,
-    "product": 80,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 508,
-    "memberCard": 240
-  },
-  {
-    "date": "2026-05-12",
-    "roomFee": 5016,
-    "restaurantFee": 1070,
-    "product": 24,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 384,
-    "memberCard": 53
-  },
-  {
-    "date": "2026-05-11",
-    "roomFee": 2620,
-    "restaurantFee": 1775,
-    "product": 400,
-    "meetingFee": 1427,
-    "roomCompensation": 0,
-    "otherConsumption": 297,
-    "memberCard": 910
-  },
-  {
-    "date": "2026-05-10",
-    "roomFee": 6819,
-    "restaurantFee": 770,
-    "product": 257,
-    "meetingFee": 681,
-    "roomCompensation": 0,
-    "otherConsumption": 596,
-    "memberCard": 1006
-  },
-  {
-    "date": "2026-05-09",
-    "roomFee": 5413,
-    "restaurantFee": 1320,
-    "product": 498,
-    "meetingFee": 1923,
-    "roomCompensation": 0,
-    "otherConsumption": 482,
-    "memberCard": 883
-  },
-  {
-    "date": "2026-05-08",
-    "roomFee": 3660,
-    "restaurantFee": 1411,
-    "product": 300,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 597,
-    "memberCard": 867
-  },
-  {
-    "date": "2026-05-07",
-    "roomFee": 4380,
-    "restaurantFee": 1333,
-    "product": 503,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 154,
-    "memberCard": 923
-  },
-  {
-    "date": "2026-05-06",
-    "roomFee": 4520,
-    "restaurantFee": 1549,
-    "product": 202,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 143,
-    "memberCard": 736
-  },
-  {
-    "date": "2026-05-05",
-    "roomFee": 8242,
-    "restaurantFee": 1430,
-    "product": 418,
-    "meetingFee": 923,
-    "roomCompensation": 0,
-    "otherConsumption": 288,
-    "memberCard": 523
-  },
-  {
-    "date": "2026-05-04",
-    "roomFee": 2841,
-    "restaurantFee": 1901,
-    "product": 761,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 268,
-    "memberCard": 611
-  },
-  {
-    "date": "2026-05-03",
-    "roomFee": 8131,
-    "restaurantFee": 1671,
-    "product": 481,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 492,
-    "memberCard": 742
-  },
-  {
-    "date": "2026-05-02",
-    "roomFee": 4856,
-    "restaurantFee": 479,
-    "product": 116,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 476,
-    "memberCard": 123
-  },
-  {
-    "date": "2026-05-01",
-    "roomFee": 5553,
-    "restaurantFee": 573,
-    "product": 351,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 195,
-    "memberCard": 1021
-  },
-  {
-    "date": "2026-04-30",
-    "roomFee": 2790,
-    "restaurantFee": 1016,
-    "product": 198,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 522,
-    "memberCard": 971
-  },
-  {
-    "date": "2026-04-29",
-    "roomFee": 6442,
-    "restaurantFee": 745,
-    "product": 14,
-    "meetingFee": 1904,
-    "roomCompensation": 0,
-    "otherConsumption": 447,
-    "memberCard": 764
-  },
-  {
-    "date": "2026-04-28",
-    "roomFee": 4252,
-    "restaurantFee": 1251,
-    "product": 376,
-    "meetingFee": 1517,
-    "roomCompensation": 0,
-    "otherConsumption": 309,
-    "memberCard": 656
-  },
-  {
-    "date": "2026-04-27",
-    "roomFee": 6558,
-    "restaurantFee": 1873,
-    "product": 288,
-    "meetingFee": 305,
-    "roomCompensation": 200,
-    "otherConsumption": 371,
-    "memberCard": 420
-  },
-  {
-    "date": "2026-04-26",
-    "roomFee": 7351,
-    "restaurantFee": 424,
-    "product": 432,
-    "meetingFee": 812,
-    "roomCompensation": 0,
-    "otherConsumption": 377,
-    "memberCard": 610
-  },
-  {
-    "date": "2026-04-25",
-    "roomFee": 5268,
-    "restaurantFee": 1540,
-    "product": 746,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 551,
-    "memberCard": 463
-  },
-  {
-    "date": "2026-04-24",
-    "roomFee": 5321,
-    "restaurantFee": 816,
-    "product": 298,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 492,
-    "memberCard": 1071
-  },
-  {
-    "date": "2026-04-23",
-    "roomFee": 6124,
-    "restaurantFee": 1851,
-    "product": 631,
-    "meetingFee": 1973,
-    "roomCompensation": 0,
-    "otherConsumption": 490,
-    "memberCard": 192
-  },
-  {
-    "date": "2026-04-22",
-    "roomFee": 2360,
-    "restaurantFee": 1563,
-    "product": 317,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 453,
-    "memberCard": 334
-  },
-  {
-    "date": "2026-04-21",
-    "roomFee": 5276,
-    "restaurantFee": 1867,
-    "product": 462,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 324,
-    "memberCard": 154
-  },
-  {
-    "date": "2026-04-20",
-    "roomFee": 7945,
-    "restaurantFee": 882,
-    "product": 488,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 148,
-    "memberCard": 672
-  },
-  {
-    "date": "2026-04-19",
-    "roomFee": 4391,
-    "restaurantFee": 945,
-    "product": 353,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 113,
-    "memberCard": 497
-  },
-  {
-    "date": "2026-04-18",
-    "roomFee": 4642,
-    "restaurantFee": 1220,
-    "product": 520,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 602,
-    "memberCard": 161
-  },
-  {
-    "date": "2026-04-17",
-    "roomFee": 3596,
-    "restaurantFee": 1453,
-    "product": 307,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 138,
-    "memberCard": 174
-  },
-  {
-    "date": "2026-04-16",
-    "roomFee": 5695,
-    "restaurantFee": 1854,
-    "product": 399,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 351,
-    "memberCard": 154
-  },
-  {
-    "date": "2026-04-15",
-    "roomFee": 3427,
-    "restaurantFee": 1534,
-    "product": 415,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 457,
-    "memberCard": 897
-  },
-  {
-    "date": "2026-04-14",
-    "roomFee": 4879,
-    "restaurantFee": 434,
-    "product": 502,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 84,
-    "memberCard": 399
-  },
-  {
-    "date": "2026-04-13",
-    "roomFee": 7173,
-    "restaurantFee": 1247,
-    "product": 92,
-    "meetingFee": 1701,
-    "roomCompensation": 0,
-    "otherConsumption": 85,
-    "memberCard": 292
-  },
-  {
-    "date": "2026-04-12",
-    "roomFee": 4172,
-    "restaurantFee": 1345,
-    "product": 252,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 129,
-    "memberCard": 211
-  },
-  {
-    "date": "2026-04-11",
-    "roomFee": 3250,
-    "restaurantFee": 1006,
-    "product": 355,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 421,
-    "memberCard": 103
-  },
-  {
-    "date": "2026-04-10",
-    "roomFee": 4915,
-    "restaurantFee": 922,
-    "product": 65,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 26,
-    "memberCard": 411
-  },
-  {
-    "date": "2026-04-09",
-    "roomFee": 2613,
-    "restaurantFee": 835,
-    "product": 384,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 207,
-    "memberCard": 809
-  },
-  {
-    "date": "2026-04-08",
-    "roomFee": 6330,
-    "restaurantFee": 391,
-    "product": 59,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 554,
-    "memberCard": 987
-  },
-  {
-    "date": "2026-04-07",
-    "roomFee": 4681,
-    "restaurantFee": 1257,
-    "product": 550,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 88,
-    "memberCard": 321
-  },
-  {
-    "date": "2026-04-06",
-    "roomFee": 3690,
-    "restaurantFee": 391,
-    "product": 319,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 449,
-    "memberCard": 21
-  },
-  {
-    "date": "2026-04-05",
-    "roomFee": 3024,
-    "restaurantFee": 469,
-    "product": 205,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 111,
-    "memberCard": 740
-  },
-  {
-    "date": "2026-04-04",
-    "roomFee": 3629,
-    "restaurantFee": 1065,
-    "product": 545,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 602,
-    "memberCard": 645
-  },
-  {
-    "date": "2026-04-03",
-    "roomFee": 5641,
-    "restaurantFee": 1306,
-    "product": 578,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 577,
-    "memberCard": 220
-  },
-  {
-    "date": "2026-04-02",
-    "roomFee": 6121,
-    "restaurantFee": 1159,
-    "product": 256,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 63,
-    "memberCard": 939
-  },
-  {
-    "date": "2026-04-01",
-    "roomFee": 6786,
-    "restaurantFee": 1206,
-    "product": 437,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 457,
-    "memberCard": 378
-  },
-  {
-    "date": "2026-03-31",
-    "roomFee": 4135,
-    "restaurantFee": 894,
-    "product": 94,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 221,
-    "memberCard": 459
-  },
-  {
-    "date": "2026-03-30",
-    "roomFee": 6957,
-    "restaurantFee": 996,
-    "product": 579,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 605,
-    "memberCard": 427
-  },
-  {
-    "date": "2026-03-29",
-    "roomFee": 2778,
-    "restaurantFee": 1153,
-    "product": 554,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 212,
-    "memberCard": 589
-  },
-  {
-    "date": "2026-03-28",
-    "roomFee": 7705,
-    "restaurantFee": 1519,
-    "product": 177,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 308,
-    "memberCard": 215
-  },
-  {
-    "date": "2026-03-27",
-    "roomFee": 5654,
-    "restaurantFee": 990,
-    "product": 106,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 490,
-    "memberCard": 468
-  },
-  {
-    "date": "2026-03-26",
-    "roomFee": 4205,
-    "restaurantFee": 1136,
-    "product": 102,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 313,
-    "memberCard": 234
-  },
-  {
-    "date": "2026-03-25",
-    "roomFee": 2992,
-    "restaurantFee": 1473,
-    "product": 222,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 106,
-    "memberCard": 399
-  },
-  {
-    "date": "2026-03-24",
-    "roomFee": 6021,
-    "restaurantFee": 888,
-    "product": 603,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 189,
-    "memberCard": 844
-  },
-  {
-    "date": "2026-03-23",
-    "roomFee": 3312,
-    "restaurantFee": 1095,
-    "product": 453,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 307,
-    "memberCard": 49
-  },
-  {
-    "date": "2026-03-22",
-    "roomFee": 6754,
-    "restaurantFee": 609,
-    "product": 185,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 230,
-    "memberCard": 228
-  },
-  {
-    "date": "2026-03-21",
-    "roomFee": 2682,
-    "restaurantFee": 786,
-    "product": 319,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 525,
-    "memberCard": 583
-  },
-  {
-    "date": "2026-03-20",
-    "roomFee": 6309,
-    "restaurantFee": 658,
-    "product": 119,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 48,
-    "memberCard": 30
-  },
-  {
-    "date": "2026-03-19",
-    "roomFee": 7999,
-    "restaurantFee": 808,
-    "product": 760,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 91,
-    "memberCard": 333
-  },
-  {
-    "date": "2026-03-18",
-    "roomFee": 5921,
-    "restaurantFee": 1705,
-    "product": 443,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 480,
-    "memberCard": 885
-  },
-  {
-    "date": "2026-03-17",
-    "roomFee": 6938,
-    "restaurantFee": 774,
-    "product": 256,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 462,
-    "memberCard": 489
-  },
-  {
-    "date": "2026-03-16",
-    "roomFee": 5267,
-    "restaurantFee": 532,
-    "product": 447,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 353,
-    "memberCard": 822
-  },
-  {
-    "date": "2026-03-15",
-    "roomFee": 3251,
-    "restaurantFee": 1730,
-    "product": 150,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 389,
-    "memberCard": 830
-  },
-  {
-    "date": "2026-03-14",
-    "roomFee": 2695,
-    "restaurantFee": 1467,
-    "product": 425,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 101,
-    "memberCard": 1092
-  },
-  {
-    "date": "2026-03-13",
-    "roomFee": 6383,
-    "restaurantFee": 1505,
-    "product": 202,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 387,
-    "memberCard": 886
-  },
-  {
-    "date": "2026-03-12",
-    "roomFee": 6223,
-    "restaurantFee": 1845,
-    "product": 56,
-    "meetingFee": 1619,
-    "roomCompensation": 0,
-    "otherConsumption": 286,
-    "memberCard": 941
-  },
-  {
-    "date": "2026-03-11",
-    "roomFee": 8204,
-    "restaurantFee": 807,
-    "product": 602,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 205,
-    "memberCard": 677
-  },
-  {
-    "date": "2026-03-10",
-    "roomFee": 2735,
-    "restaurantFee": 1832,
-    "product": 710,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 405,
-    "memberCard": 68
-  },
-  {
-    "date": "2026-03-09",
-    "roomFee": 3342,
-    "restaurantFee": 807,
-    "product": 146,
-    "meetingFee": 0,
-    "roomCompensation": 200,
-    "otherConsumption": 349,
-    "memberCard": 721
-  },
-  {
-    "date": "2026-03-08",
-    "roomFee": 6195,
-    "restaurantFee": 591,
-    "product": 128,
-    "meetingFee": 2041,
-    "roomCompensation": 0,
-    "otherConsumption": 250,
-    "memberCard": 301
-  },
-  {
-    "date": "2026-03-07",
-    "roomFee": 7905,
-    "restaurantFee": 596,
-    "product": 237,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 275,
-    "memberCard": 834
-  },
-  {
-    "date": "2026-03-06",
-    "roomFee": 6666,
-    "restaurantFee": 1505,
-    "product": 616,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 64,
-    "memberCard": 894
-  },
-  {
-    "date": "2026-03-05",
-    "roomFee": 5797,
-    "restaurantFee": 993,
-    "product": 472,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 532,
-    "memberCard": 271
-  },
-  {
-    "date": "2026-03-04",
-    "roomFee": 5149,
-    "restaurantFee": 1107,
-    "product": 472,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 192,
-    "memberCard": 834
-  },
-  {
-    "date": "2026-03-03",
-    "roomFee": 6948,
-    "restaurantFee": 1780,
-    "product": 8,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 286,
-    "memberCard": 65
-  },
-  {
-    "date": "2026-03-02",
-    "roomFee": 5136,
-    "restaurantFee": 890,
-    "product": 451,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 254,
-    "memberCard": 257
-  },
-  {
-    "date": "2026-03-01",
-    "roomFee": 4583,
-    "restaurantFee": 1517,
-    "product": 109,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 30,
-    "memberCard": 907
-  },
-  {
-    "date": "2026-02-28",
-    "roomFee": 2917,
-    "restaurantFee": 1696,
-    "product": 37,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 101,
-    "memberCard": 135
-  },
-  {
-    "date": "2026-02-27",
-    "roomFee": 5273,
-    "restaurantFee": 1348,
-    "product": 450,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 172,
-    "memberCard": 423
-  },
-  {
-    "date": "2026-02-26",
-    "roomFee": 3160,
-    "restaurantFee": 1565,
-    "product": 747,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 71,
-    "memberCard": 462
-  },
-  {
-    "date": "2026-02-25",
-    "roomFee": 6778,
-    "restaurantFee": 731,
-    "product": 86,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 227,
-    "memberCard": 933
-  },
-  {
-    "date": "2026-02-24",
-    "roomFee": 7245,
-    "restaurantFee": 767,
-    "product": 526,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 466,
-    "memberCard": 226
-  },
-  {
-    "date": "2026-02-23",
-    "roomFee": 3973,
-    "restaurantFee": 1818,
-    "product": 701,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 399,
-    "memberCard": 964
-  },
-  {
-    "date": "2026-02-22",
-    "roomFee": 5411,
-    "restaurantFee": 1203,
-    "product": 504,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 65,
-    "memberCard": 767
-  },
-  {
-    "date": "2026-02-21",
-    "roomFee": 6447,
-    "restaurantFee": 1368,
-    "product": 512,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 584,
-    "memberCard": 623
-  },
-  {
-    "date": "2026-02-20",
-    "roomFee": 6592,
-    "restaurantFee": 497,
-    "product": 330,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 332,
-    "memberCard": 247
-  },
-  {
-    "date": "2026-02-19",
-    "roomFee": 5422,
-    "restaurantFee": 798,
-    "product": 662,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 391,
-    "memberCard": 695
-  },
-  {
-    "date": "2026-02-18",
-    "roomFee": 3091,
-    "restaurantFee": 1740,
-    "product": 443,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 449,
-    "memberCard": 537
-  },
-  {
-    "date": "2026-02-17",
-    "roomFee": 5435,
-    "restaurantFee": 1498,
-    "product": 268,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 595,
-    "memberCard": 270
-  },
-  {
-    "date": "2026-02-16",
-    "roomFee": 7045,
-    "restaurantFee": 523,
-    "product": 471,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 511,
-    "memberCard": 271
-  },
-  {
-    "date": "2026-02-15",
-    "roomFee": 4081,
-    "restaurantFee": 1730,
-    "product": 241,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 157,
-    "memberCard": 870
-  },
-  {
-    "date": "2026-02-14",
-    "roomFee": 5685,
-    "restaurantFee": 1382,
-    "product": 132,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 392,
-    "memberCard": 373
-  },
-  {
-    "date": "2026-02-13",
-    "roomFee": 5357,
-    "restaurantFee": 847,
-    "product": 266,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 126,
-    "memberCard": 715
-  },
-  {
-    "date": "2026-02-12",
-    "roomFee": 3012,
-    "restaurantFee": 1203,
-    "product": 443,
-    "meetingFee": 259,
-    "roomCompensation": 0,
-    "otherConsumption": 272,
-    "memberCard": 911
-  },
-  {
-    "date": "2026-02-11",
-    "roomFee": 3786,
-    "restaurantFee": 1732,
-    "product": 50,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 188,
-    "memberCard": 904
-  },
-  {
-    "date": "2026-02-10",
-    "roomFee": 8233,
-    "restaurantFee": 715,
-    "product": 255,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 570,
-    "memberCard": 149
-  },
-  {
-    "date": "2026-02-09",
-    "roomFee": 2363,
-    "restaurantFee": 1860,
-    "product": 233,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 144,
-    "memberCard": 845
-  },
-  {
-    "date": "2026-02-08",
-    "roomFee": 4492,
-    "restaurantFee": 861,
-    "product": 408,
-    "meetingFee": 1033,
-    "roomCompensation": 0,
-    "otherConsumption": 279,
-    "memberCard": 521
-  },
-  {
-    "date": "2026-02-07",
-    "roomFee": 6611,
-    "restaurantFee": 1027,
-    "product": 551,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 485,
-    "memberCard": 127
-  },
-  {
-    "date": "2026-02-06",
-    "roomFee": 3927,
-    "restaurantFee": 1535,
-    "product": 255,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 57,
-    "memberCard": 992
-  },
-  {
-    "date": "2026-02-05",
-    "roomFee": 8063,
-    "restaurantFee": 420,
-    "product": 341,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 264,
-    "memberCard": 65
-  },
-  {
-    "date": "2026-02-04",
-    "roomFee": 5613,
-    "restaurantFee": 1482,
-    "product": 101,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 498,
-    "memberCard": 761
-  },
-  {
-    "date": "2026-02-03",
-    "roomFee": 6070,
-    "restaurantFee": 1122,
-    "product": 272,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 224,
-    "memberCard": 511
-  },
-  {
-    "date": "2026-02-02",
-    "roomFee": 5990,
-    "restaurantFee": 1437,
-    "product": 160,
-    "meetingFee": 0,
-    "roomCompensation": 200,
-    "otherConsumption": 416,
-    "memberCard": 870
-  },
-  {
-    "date": "2026-02-01",
-    "roomFee": 2380,
-    "restaurantFee": 750,
-    "product": 416,
-    "meetingFee": 321,
-    "roomCompensation": 50,
-    "otherConsumption": 599,
-    "memberCard": 376
-  },
-  {
-    "date": "2026-01-31",
-    "roomFee": 5236,
-    "restaurantFee": 1377,
-    "product": 697,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 495,
-    "memberCard": 176
-  },
-  {
-    "date": "2026-01-30",
-    "roomFee": 3632,
-    "restaurantFee": 1226,
-    "product": 189,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 230,
-    "memberCard": 208
-  },
-  {
-    "date": "2026-01-29",
-    "roomFee": 7482,
-    "restaurantFee": 584,
-    "product": 192,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 574,
-    "memberCard": 765
-  },
-  {
-    "date": "2026-01-28",
-    "roomFee": 3437,
-    "restaurantFee": 1663,
-    "product": 543,
-    "meetingFee": 2004,
-    "roomCompensation": 0,
-    "otherConsumption": 268,
-    "memberCard": 744
-  },
-  {
-    "date": "2026-01-27",
-    "roomFee": 3418,
-    "restaurantFee": 1886,
-    "product": 756,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 443,
-    "memberCard": 1002
-  },
-  {
-    "date": "2026-01-26",
-    "roomFee": 2654,
-    "restaurantFee": 1733,
-    "product": 342,
-    "meetingFee": 0,
-    "roomCompensation": 50,
-    "otherConsumption": 339,
-    "memberCard": 357
-  },
-  {
-    "date": "2026-01-25",
-    "roomFee": 5955,
-    "restaurantFee": 1047,
-    "product": 652,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 157,
-    "memberCard": 389
-  },
-  {
-    "date": "2026-01-24",
-    "roomFee": 5474,
-    "restaurantFee": 984,
-    "product": 721,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 272,
-    "memberCard": 432
-  },
-  {
-    "date": "2026-01-23",
-    "roomFee": 3948,
-    "restaurantFee": 1025,
-    "product": 734,
-    "meetingFee": 1924,
-    "roomCompensation": 0,
-    "otherConsumption": 72,
-    "memberCard": 115
-  },
-  {
-    "date": "2026-01-22",
-    "roomFee": 6431,
-    "restaurantFee": 546,
-    "product": 302,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 589,
-    "memberCard": 720
-  },
-  {
-    "date": "2026-01-21",
-    "roomFee": 3827,
-    "restaurantFee": 771,
-    "product": 758,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 315,
-    "memberCard": 896
-  },
-  {
-    "date": "2026-01-20",
-    "roomFee": 5497,
-    "restaurantFee": 1006,
-    "product": 692,
-    "meetingFee": 1406,
-    "roomCompensation": 0,
-    "otherConsumption": 601,
-    "memberCard": 87
-  },
-  {
-    "date": "2026-01-19",
-    "roomFee": 7713,
-    "restaurantFee": 1247,
-    "product": 152,
-    "meetingFee": 0,
-    "roomCompensation": 200,
-    "otherConsumption": 339,
-    "memberCard": 114
-  },
-  {
-    "date": "2026-01-18",
-    "roomFee": 3713,
-    "restaurantFee": 859,
-    "product": 440,
-    "meetingFee": 1828,
-    "roomCompensation": 0,
-    "otherConsumption": 608,
-    "memberCard": 294
-  },
-  {
-    "date": "2026-01-17",
-    "roomFee": 6326,
-    "restaurantFee": 1777,
-    "product": 8,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 523,
-    "memberCard": 481
-  },
-  {
-    "date": "2026-01-16",
-    "roomFee": 5943,
-    "restaurantFee": 1134,
-    "product": 640,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 578,
-    "memberCard": 375
-  },
-  {
-    "date": "2026-01-15",
-    "roomFee": 6105,
-    "restaurantFee": 1871,
-    "product": 377,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 396,
-    "memberCard": 857
-  },
-  {
-    "date": "2026-01-14",
-    "roomFee": 8326,
-    "restaurantFee": 1123,
-    "product": 751,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 564,
-    "memberCard": 426
-  },
-  {
-    "date": "2026-01-13",
-    "roomFee": 6307,
-    "restaurantFee": 1427,
-    "product": 495,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 216,
-    "memberCard": 332
-  },
-  {
-    "date": "2026-01-12",
-    "roomFee": 5359,
-    "restaurantFee": 897,
-    "product": 618,
-    "meetingFee": 1530,
-    "roomCompensation": 0,
-    "otherConsumption": 505,
-    "memberCard": 1066
-  },
-  {
-    "date": "2026-01-11",
-    "roomFee": 3871,
-    "restaurantFee": 925,
-    "product": 107,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 100,
-    "memberCard": 795
-  },
-  {
-    "date": "2026-01-10",
-    "roomFee": 7600,
-    "restaurantFee": 1299,
-    "product": 543,
-    "meetingFee": 0,
-    "roomCompensation": 0,
-    "otherConsumption": 343,
-    "memberCard": 246
-  },
-  {
-    "date": "2026-01-09",
-    "roomFee": 2371,
-    "restaurantFee": 669,
+    "roomFee": 5804,
+    "restaurantFee": 825,
     "product": 171,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 409,
-    "memberCard": 472
+    "otherConsumption": 0,
+    "memberCard": 700
   },
   {
-    "date": "2026-01-08",
-    "roomFee": 7926,
-    "restaurantFee": 508,
-    "product": 752,
+    "date": "2026-05-18",
+    "roomFee": 4008,
+    "restaurantFee": 455,
+    "product": 229,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 233,
-    "memberCard": 859
+    "otherConsumption": 0,
+    "memberCard": 800
   },
   {
-    "date": "2026-01-07",
-    "roomFee": 5707,
-    "restaurantFee": 645,
-    "product": 640,
+    "date": "2026-05-17",
+    "roomFee": 8867,
+    "restaurantFee": 1106,
+    "product": 353,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 329,
-    "memberCard": 46
+    "otherConsumption": 0,
+    "memberCard": 1000
   },
   {
-    "date": "2026-01-06",
-    "roomFee": 4067,
-    "restaurantFee": 494,
-    "product": 75,
+    "date": "2026-05-16",
+    "roomFee": 8901,
+    "restaurantFee": 1463,
+    "product": 499,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 96,
-    "memberCard": 202
+    "otherConsumption": 0,
+    "memberCard": 500
   },
   {
-    "date": "2026-01-05",
-    "roomFee": 3029,
-    "restaurantFee": 1269,
+    "date": "2026-05-15",
+    "roomFee": 3796,
+    "restaurantFee": 553,
+    "product": 184,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-05-14",
+    "roomFee": 7369,
+    "restaurantFee": 928,
+    "product": 246,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-05-13",
+    "roomFee": 6548,
+    "restaurantFee": 1050,
+    "product": 215,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-05-12",
+    "roomFee": 4417,
+    "restaurantFee": 536,
+    "product": 216,
+    "meetingFee": 0,
+    "roomCompensation": 200,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-05-11",
+    "roomFee": 6765,
+    "restaurantFee": 1176,
+    "product": 324,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-05-10",
+    "roomFee": 5455,
+    "restaurantFee": 961,
+    "product": 166,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-05-09",
+    "roomFee": 5417,
+    "restaurantFee": 1160,
+    "product": 282,
+    "meetingFee": 0,
+    "roomCompensation": 100,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-05-08",
+    "roomFee": 7024,
+    "restaurantFee": 1163,
+    "product": 308,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-05-07",
+    "roomFee": 5100,
+    "restaurantFee": 688,
+    "product": 265,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-05-06",
+    "roomFee": 6295,
+    "restaurantFee": 654,
+    "product": 297,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-05-05",
+    "roomFee": 11881,
+    "restaurantFee": 1746,
+    "product": 689,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-05-04",
+    "roomFee": 10410,
+    "restaurantFee": 2127,
+    "product": 435,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-05-03",
+    "roomFee": 10693,
+    "restaurantFee": 1559,
+    "product": 335,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-05-02",
+    "roomFee": 11692,
+    "restaurantFee": 2643,
+    "product": 499,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-05-01",
+    "roomFee": 9127,
+    "restaurantFee": 1270,
+    "product": 427,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-04-30",
+    "roomFee": 6672,
+    "restaurantFee": 804,
+    "product": 295,
+    "meetingFee": 0,
+    "roomCompensation": 200,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-04-29",
+    "roomFee": 7337,
+    "restaurantFee": 1151,
+    "product": 357,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-04-28",
+    "roomFee": 7021,
+    "restaurantFee": 756,
+    "product": 181,
+    "meetingFee": 1500,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-04-27",
+    "roomFee": 7456,
+    "restaurantFee": 1235,
+    "product": 280,
+    "meetingFee": 0,
+    "roomCompensation": 100,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-04-26",
+    "roomFee": 6807,
+    "restaurantFee": 916,
+    "product": 230,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-04-25",
+    "roomFee": 7330,
+    "restaurantFee": 999,
+    "product": 380,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-04-24",
+    "roomFee": 6612,
+    "restaurantFee": 928,
+    "product": 273,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-04-23",
+    "roomFee": 6659,
+    "restaurantFee": 700,
+    "product": 176,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-04-22",
+    "roomFee": 6623,
+    "restaurantFee": 745,
+    "product": 342,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-04-21",
+    "roomFee": 5442,
+    "restaurantFee": 852,
+    "product": 171,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-04-20",
+    "roomFee": 5163,
+    "restaurantFee": 838,
+    "product": 249,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-04-19",
+    "roomFee": 4940,
+    "restaurantFee": 923,
+    "product": 125,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-04-18",
+    "roomFee": 9212,
+    "restaurantFee": 1209,
+    "product": 452,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-04-17",
+    "roomFee": 5056,
+    "restaurantFee": 688,
+    "product": 298,
+    "meetingFee": 1200,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-04-16",
+    "roomFee": 3786,
+    "restaurantFee": 651,
+    "product": 113,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-04-15",
+    "roomFee": 5656,
+    "restaurantFee": 958,
+    "product": 329,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-04-14",
+    "roomFee": 4966,
+    "restaurantFee": 669,
+    "product": 229,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-04-13",
+    "roomFee": 5453,
+    "restaurantFee": 590,
+    "product": 217,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-04-12",
+    "roomFee": 5418,
+    "restaurantFee": 967,
+    "product": 293,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-04-11",
+    "roomFee": 5083,
+    "restaurantFee": 738,
+    "product": 254,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-04-10",
+    "roomFee": 4618,
+    "restaurantFee": 702,
+    "product": 214,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-04-09",
+    "roomFee": 5951,
+    "restaurantFee": 622,
+    "product": 185,
+    "meetingFee": 1600,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-04-08",
+    "roomFee": 6620,
+    "restaurantFee": 822,
+    "product": 363,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-04-07",
+    "roomFee": 5407,
+    "restaurantFee": 936,
+    "product": 273,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-04-06",
+    "roomFee": 5787,
+    "restaurantFee": 1326,
+    "product": 261,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-04-05",
+    "roomFee": 5326,
+    "restaurantFee": 1159,
+    "product": 196,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-04-04",
+    "roomFee": 10162,
+    "restaurantFee": 1284,
+    "product": 350,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-04-03",
+    "roomFee": 4205,
+    "restaurantFee": 471,
+    "product": 198,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-04-02",
+    "roomFee": 3699,
+    "restaurantFee": 595,
+    "product": 184,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-04-01",
+    "roomFee": 4410,
+    "restaurantFee": 810,
+    "product": 172,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-03-31",
+    "roomFee": 6164,
+    "restaurantFee": 872,
+    "product": 260,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-03-30",
+    "roomFee": 6050,
+    "restaurantFee": 767,
+    "product": 187,
+    "meetingFee": 2000,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-03-29",
+    "roomFee": 5321,
+    "restaurantFee": 1035,
+    "product": 288,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-03-28",
+    "roomFee": 5391,
+    "restaurantFee": 795,
+    "product": 257,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-03-27",
+    "roomFee": 3657,
+    "restaurantFee": 439,
+    "product": 180,
+    "meetingFee": 600,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-03-26",
+    "roomFee": 5618,
+    "restaurantFee": 757,
+    "product": 256,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-03-25",
+    "roomFee": 4483,
+    "restaurantFee": 595,
+    "product": 212,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-03-24",
+    "roomFee": 4149,
+    "restaurantFee": 753,
+    "product": 133,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-03-23",
+    "roomFee": 3763,
+    "restaurantFee": 614,
+    "product": 190,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-03-22",
+    "roomFee": 6518,
+    "restaurantFee": 908,
+    "product": 316,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-03-21",
+    "roomFee": 6925,
+    "restaurantFee": 1189,
+    "product": 197,
+    "meetingFee": 0,
+    "roomCompensation": 200,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-03-20",
+    "roomFee": 6803,
+    "restaurantFee": 929,
+    "product": 381,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-03-19",
+    "roomFee": 4846,
+    "restaurantFee": 742,
+    "product": 180,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-03-18",
+    "roomFee": 5294,
+    "restaurantFee": 948,
+    "product": 245,
+    "meetingFee": 1200,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-03-17",
+    "roomFee": 5423,
+    "restaurantFee": 744,
+    "product": 298,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-03-16",
+    "roomFee": 7092,
+    "restaurantFee": 871,
     "product": 197,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 517,
-    "memberCard": 472
+    "otherConsumption": 0,
+    "memberCard": 600
   },
   {
-    "date": "2026-01-04",
-    "roomFee": 7503,
-    "restaurantFee": 622,
-    "product": 221,
+    "date": "2026-03-15",
+    "roomFee": 4554,
+    "restaurantFee": 565,
+    "product": 271,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 586,
-    "memberCard": 844
+    "otherConsumption": 0,
+    "memberCard": 900
   },
   {
-    "date": "2026-01-03",
-    "roomFee": 6277,
-    "restaurantFee": 1120,
-    "product": 478,
-    "meetingFee": 1205,
+    "date": "2026-03-14",
+    "roomFee": 8581,
+    "restaurantFee": 1766,
+    "product": 324,
+    "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 237,
-    "memberCard": 533
+    "otherConsumption": 0,
+    "memberCard": 400
   },
   {
-    "date": "2026-01-02",
-    "roomFee": 5649,
-    "restaurantFee": 909,
+    "date": "2026-03-13",
+    "roomFee": 4493,
+    "restaurantFee": 478,
+    "product": 265,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-03-12",
+    "roomFee": 6888,
+    "restaurantFee": 1009,
+    "product": 292,
+    "meetingFee": 1900,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-03-11",
+    "roomFee": 7490,
+    "restaurantFee": 1360,
+    "product": 360,
+    "meetingFee": 800,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-03-10",
+    "roomFee": 6205,
+    "restaurantFee": 662,
+    "product": 187,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-03-09",
+    "roomFee": 3796,
+    "restaurantFee": 534,
+    "product": 144,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-03-08",
+    "roomFee": 6793,
+    "restaurantFee": 793,
+    "product": 246,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-03-07",
+    "roomFee": 5763,
+    "restaurantFee": 967,
+    "product": 345,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1200
+  },
+  {
+    "date": "2026-03-06",
+    "roomFee": 6735,
+    "restaurantFee": 1256,
+    "product": 278,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-03-05",
+    "roomFee": 7450,
+    "restaurantFee": 1330,
+    "product": 298,
+    "meetingFee": 1200,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-03-04",
+    "roomFee": 5650,
+    "restaurantFee": 979,
+    "product": 246,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-03-03",
+    "roomFee": 6007,
+    "restaurantFee": 948,
+    "product": 346,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-03-02",
+    "roomFee": 3737,
+    "restaurantFee": 523,
+    "product": 187,
+    "meetingFee": 0,
+    "roomCompensation": 200,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-03-01",
+    "roomFee": 5755,
+    "restaurantFee": 960,
+    "product": 258,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-02-28",
+    "roomFee": 6965,
+    "restaurantFee": 982,
+    "product": 408,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-02-27",
+    "roomFee": 5573,
+    "restaurantFee": 885,
+    "product": 183,
+    "meetingFee": 500,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-02-26",
+    "roomFee": 5340,
+    "restaurantFee": 759,
+    "product": 295,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-02-25",
+    "roomFee": 6910,
+    "restaurantFee": 1097,
+    "product": 408,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-02-24",
+    "roomFee": 7062,
+    "restaurantFee": 1127,
+    "product": 181,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-02-23",
+    "roomFee": 3643,
+    "restaurantFee": 578,
+    "product": 188,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-02-22",
+    "roomFee": 2163,
+    "restaurantFee": 338,
+    "product": 82,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-02-21",
+    "roomFee": 2581,
+    "restaurantFee": 340,
+    "product": 73,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-02-20",
+    "roomFee": 2149,
+    "restaurantFee": 321,
+    "product": 98,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-02-19",
+    "roomFee": 2331,
+    "restaurantFee": 264,
+    "product": 65,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-02-18",
+    "roomFee": 4065,
+    "restaurantFee": 478,
+    "product": 157,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-02-17",
+    "roomFee": 2566,
+    "restaurantFee": 225,
+    "product": 115,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-02-16",
+    "roomFee": 3129,
+    "restaurantFee": 313,
+    "product": 111,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-02-15",
+    "roomFee": 2898,
+    "restaurantFee": 491,
+    "product": 76,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-02-14",
+    "roomFee": 2255,
+    "restaurantFee": 318,
+    "product": 99,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-02-13",
+    "roomFee": 5146,
+    "restaurantFee": 672,
+    "product": 283,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-02-12",
+    "roomFee": 6868,
+    "restaurantFee": 989,
+    "product": 384,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-02-11",
+    "roomFee": 6733,
+    "restaurantFee": 1279,
+    "product": 257,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-02-10",
+    "roomFee": 4760,
+    "restaurantFee": 628,
     "product": 132,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 230,
-    "memberCard": 202
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-02-09",
+    "roomFee": 5607,
+    "restaurantFee": 643,
+    "product": 167,
+    "meetingFee": 1300,
+    "roomCompensation": 300,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-02-08",
+    "roomFee": 6201,
+    "restaurantFee": 1256,
+    "product": 236,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-02-07",
+    "roomFee": 7134,
+    "restaurantFee": 1578,
+    "product": 362,
+    "meetingFee": 0,
+    "roomCompensation": 300,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-02-06",
+    "roomFee": 5765,
+    "restaurantFee": 638,
+    "product": 150,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-02-05",
+    "roomFee": 4121,
+    "restaurantFee": 418,
+    "product": 176,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-02-04",
+    "roomFee": 6468,
+    "restaurantFee": 1005,
+    "product": 242,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-02-03",
+    "roomFee": 6348,
+    "restaurantFee": 811,
+    "product": 322,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-02-02",
+    "roomFee": 3750,
+    "restaurantFee": 611,
+    "product": 222,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-02-01",
+    "roomFee": 4863,
+    "restaurantFee": 615,
+    "product": 209,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-01-31",
+    "roomFee": 5617,
+    "restaurantFee": 876,
+    "product": 320,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-01-30",
+    "roomFee": 6853,
+    "restaurantFee": 1177,
+    "product": 272,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-01-29",
+    "roomFee": 5718,
+    "restaurantFee": 643,
+    "product": 314,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-01-28",
+    "roomFee": 4523,
+    "restaurantFee": 505,
+    "product": 175,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-01-27",
+    "roomFee": 4169,
+    "restaurantFee": 762,
+    "product": 248,
+    "meetingFee": 2300,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-01-26",
+    "roomFee": 4095,
+    "restaurantFee": 478,
+    "product": 186,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-01-25",
+    "roomFee": 4919,
+    "restaurantFee": 716,
+    "product": 212,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-01-24",
+    "roomFee": 7835,
+    "restaurantFee": 1507,
+    "product": 455,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-01-23",
+    "roomFee": 4233,
+    "restaurantFee": 455,
+    "product": 254,
+    "meetingFee": 2000,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
+  },
+  {
+    "date": "2026-01-22",
+    "roomFee": 5677,
+    "restaurantFee": 631,
+    "product": 215,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-01-21",
+    "roomFee": 6775,
+    "restaurantFee": 1071,
+    "product": 403,
+    "meetingFee": 2000,
+    "roomCompensation": 100,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-01-20",
+    "roomFee": 5212,
+    "restaurantFee": 886,
+    "product": 230,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-01-19",
+    "roomFee": 7264,
+    "restaurantFee": 950,
+    "product": 401,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-01-18",
+    "roomFee": 8022,
+    "restaurantFee": 1168,
+    "product": 303,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-01-17",
+    "roomFee": 8298,
+    "restaurantFee": 1444,
+    "product": 222,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-01-16",
+    "roomFee": 5920,
+    "restaurantFee": 643,
+    "product": 181,
+    "meetingFee": 800,
+    "roomCompensation": 100,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-01-15",
+    "roomFee": 5979,
+    "restaurantFee": 836,
+    "product": 344,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1000
+  },
+  {
+    "date": "2026-01-14",
+    "roomFee": 5596,
+    "restaurantFee": 862,
+    "product": 233,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 400
+  },
+  {
+    "date": "2026-01-13",
+    "roomFee": 5726,
+    "restaurantFee": 718,
+    "product": 205,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-01-12",
+    "roomFee": 7179,
+    "restaurantFee": 1259,
+    "product": 307,
+    "meetingFee": 300,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 800
+  },
+  {
+    "date": "2026-01-11",
+    "roomFee": 6483,
+    "restaurantFee": 985,
+    "product": 197,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-01-10",
+    "roomFee": 6821,
+    "restaurantFee": 1491,
+    "product": 407,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 600
+  },
+  {
+    "date": "2026-01-09",
+    "roomFee": 5653,
+    "restaurantFee": 1020,
+    "product": 210,
+    "meetingFee": 1000,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 1100
+  },
+  {
+    "date": "2026-01-08",
+    "roomFee": 5236,
+    "restaurantFee": 530,
+    "product": 207,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 100
+  },
+  {
+    "date": "2026-01-07",
+    "roomFee": 6140,
+    "restaurantFee": 884,
+    "product": 297,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 500
+  },
+  {
+    "date": "2026-01-06",
+    "roomFee": 5909,
+    "restaurantFee": 896,
+    "product": 295,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-01-05",
+    "roomFee": 7403,
+    "restaurantFee": 786,
+    "product": 377,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 300
+  },
+  {
+    "date": "2026-01-04",
+    "roomFee": 5147,
+    "restaurantFee": 563,
+    "product": 302,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 900
+  },
+  {
+    "date": "2026-01-03",
+    "roomFee": 8125,
+    "restaurantFee": 1233,
+    "product": 258,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 200
+  },
+  {
+    "date": "2026-01-02",
+    "roomFee": 6176,
+    "restaurantFee": 621,
+    "product": 264,
+    "meetingFee": 0,
+    "roomCompensation": 0,
+    "otherConsumption": 0,
+    "memberCard": 700
   },
   {
     "date": "2026-01-01",
-    "roomFee": 2577,
-    "restaurantFee": 825,
-    "product": 747,
+    "roomFee": 5966,
+    "restaurantFee": 1061,
+    "product": 252,
     "meetingFee": 0,
     "roomCompensation": 0,
-    "otherConsumption": 82,
-    "memberCard": 707
+    "otherConsumption": 0,
+    "memberCard": 900
   }
 ]
